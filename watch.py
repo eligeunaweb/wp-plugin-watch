@@ -216,7 +216,7 @@ def publish(snapshot, root=ROOT):
     snapshot = enrich(snapshot)
     generated = {root / 'data/plugins.json': json.dumps(snapshot, ensure_ascii=False, indent=2) + '\n',
                  root / 'data/plugins.csv': csv_export(snapshot)}
-    for lang, filename in [('es', 'README.md'), ('en', 'README.en.md')]:
+    for lang, filename in [('en', 'README.md'), ('es', 'README.es.md')]:
         path = root / filename
         source = path.read_text(encoding='utf-8')
         start, end = '<!-- WATCH:START -->', '<!-- WATCH:END -->'

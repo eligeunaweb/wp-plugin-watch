@@ -44,7 +44,7 @@ jobs:
         if: "!cancelled() && (steps.refresh.outcome == 'success' || steps.refresh.outcome == 'failure')"
         shell: bash
         run: |
-          git add -- README.md README.en.md CATEGORIES.md CATEGORIES.en.md docs/index.html watchlist.json data/candidates.json data/plugins.json data/plugins.csv
+          git add -- README.md README.es.md CATEGORIES.md CATEGORIES.en.md docs/index.html watchlist.json data/candidates.json data/plugins.json data/plugins.csv
           if git diff --cached --quiet; then
             echo 'No generated changes'
             exit 0

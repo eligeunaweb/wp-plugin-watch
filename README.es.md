@@ -1,5 +1,7 @@
 # WordPress Plugin Watch
 
+**[Abrir el explorador interactivo](https://eligeunaweb.github.io/wp-plugin-watch/)** — busca, filtra y ordena el catálogo actualizado diariamente.
+
 [English](README.md) · [Metodología](docs/METHODOLOGY.md) · [Instalación y GitHub Actions](docs/SETUP.md)
 
 **Plugins con muchas instalaciones y señales de mantenimiento que merece la pena revisar.**

@@ -31,3 +31,14 @@ Executed locally on Windows/Python 3.12.9: all 16 tests passed. Two live refresh
 - The Sunday discovery schedule and daily rendering changes have not run as scheduled on the default branch. They become active after integration. GitHub Pages has not been enabled or deployed.
 
 Ampliación: 191 fichas reales, cero errores finales; 24 pruebas unitarias y comprobaciones reales en Chromium superadas en Windows. Categorías orientativas, sin revisión humana. Las nuevas tareas programadas y el alojamiento Pages todavía no se han ejecutado en producción.
+
+
+## Integrated and deployed — 2026-11-18
+
+[PR #1](https://github.com/eligeunaweb/wp-plugin-watch/pull/1) was merged after [24 tests on Windows/Linux/macOS and Chromium CI passed](https://github.com/eligeunaweb/wp-plugin-watch/actions/runs/44374989054).
+
+The first main-branch [expanded daily updater run](https://github.com/eligeunaweb/wp-plugin-watch/actions/runs/44375291753) completed successfully: 191 records, zero errors, bot commit `50be811`. It triggered a successful [Pages publication](https://github.com/eligeunaweb/wp-plugin-watch/actions/runs/44375908531). Initial Pages setup had failed before the owner selected GitHub Actions as the publishing source; deployment succeeded after that configuration.
+
+Live verification at https://eligeunaweb.github.io/wp-plugin-watch/: HTTP 200; 191 records; generated_at `2026-11-18T18:57:30Z` matches the bot snapshot. Chromium passed search, combined category/install filters and ES/EN switching without browser errors. This verifies the updater-to-website chain, not a future cron event. Daily and Sunday scheduled events still require observation when their times arrive.
+
+Integrado y publicado: 191 fichas verificadas, cero errores y web pública comprobada en Chromium. El enlace público figura en ambos README. La actualización y el despliegue encadenado se han ejecutado realmente; la próxima ejecución por horario queda pendiente de su fecha.

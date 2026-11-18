@@ -1,5 +1,7 @@
 # WordPress Plugin Watch
 
+**[Open the interactive explorer](https://eligeunaweb.github.io/wp-plugin-watch/)** — search, filter and sort the daily catalogue.
+
 [Español](README.es.md) · [Methodology](docs/METHODOLOGY.md) · [Setup](docs/SETUP.md)
 
 **Widely installed WordPress plugins with maintenance signals worth reviewing.**

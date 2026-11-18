@@ -9,7 +9,7 @@ The initial watchlist selects 20 candidates from the first 2,000 popular results
 
 <!-- WATCH:START -->
 
-Last run: **2026-11-18T12:29:55Z** · Errors: **0**
+Last run: **2026-11-18T13:13:19Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|

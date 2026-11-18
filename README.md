@@ -9,7 +9,7 @@ La selección inicial incluye 20 candidatos de una muestra de los primeros 2.000
 
 <!-- WATCH:START -->
 
-Última consulta: **2026-11-18T12:29:55Z** · Errores: **0**
+Última consulta: **2026-11-18T13:13:19Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|

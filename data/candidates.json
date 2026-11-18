@@ -1,15 +1,19 @@
 {
-  "discovered_at": "2026-11-18T12:25:10Z",
-  "pages_queried": 8,
-  "method": "Popular endpoint; 250 per page; >=10000 published installs; >=730 days without updates. Sample only; closed plugins may not appear.",
+  "discovered_at": "2026-11-18T17:37:32Z",
+  "pages_queried": 20,
+  "min_installs": 1000,
+  "method": "Popular endpoint; 250 per page; >=1000 published installs; >=730 days without updates. Sample only; closed plugins may not appear.",
   "candidates": [
     {
       "slug": "health-check",
+      "tags": [
+        "health check"
+      ],
       "name": "Health Check & Troubleshooting",
       "version": "1.7.1",
       "active_installs": 200000,
       "last_updated": "2024-07-25T21:43:00Z",
-      "tested": "6.6.11",
+      "tested": "6.6.12",
       "requires": "4.4",
       "requires_php": "5.6",
       "directory_status": "open",
@@ -18,11 +22,18 @@
     },
     {
       "slug": "yet-another-related-posts-plugin",
+      "tags": [
+        "contextual related posts",
+        "posts",
+        "related posts",
+        "seo",
+        "similar posts"
+      ],
       "name": "YARPP – Yet Another Related Posts Plugin",
       "version": "5.30.11",
       "active_installs": 100000,
       "last_updated": "2024-11-11T18:16:00Z",
-      "tested": "6.7.11",
+      "tested": "6.7.12",
       "requires": "3.7",
       "requires_php": "5.3",
       "directory_status": "open",
@@ -31,6 +42,13 @@
     },
     {
       "slug": "disable-json-api",
+      "tags": [
+        "admin",
+        "api",
+        "JSON",
+        "rest",
+        "rest-api"
+      ],
       "name": "Disable REST API",
       "version": "1.8",
       "active_installs": 80000,
@@ -44,11 +62,18 @@
     },
     {
       "slug": "widget-css-classes",
+      "tags": [
+        "classes",
+        "css",
+        "widget classes",
+        "widget css",
+        "widgets"
+      ],
       "name": "Widget CSS Classes",
       "version": "1.5.4.1",
       "active_installs": 80000,
       "last_updated": "2024-11-12T00:16:00Z",
-      "tested": "6.7.11",
+      "tested": "6.7.12",
       "requires": "3.3",
       "requires_php": "5.2.4",
       "directory_status": "open",
@@ -57,6 +82,13 @@
     },
     {
       "slug": "facebook-messenger-customer-chat",
+      "tags": [
+        "chat",
+        "customer care",
+        "facebook",
+        "messaging",
+        "messenger"
+      ],
       "name": "Facebook Chat Plugin – Live Chat Plugin for WordPress",
       "version": "2.5",
       "active_installs": 70000,
@@ -70,6 +102,13 @@
     },
     {
       "slug": "heartbeat-control",
+      "tags": [
+        "admin-ajax",
+        "heartbeat",
+        "heartbeat api",
+        "heartbeat control",
+        "server resources"
+      ],
       "name": "Heartbeat Control",
       "version": "2.0.1",
       "active_installs": 70000,
@@ -83,6 +122,13 @@
     },
     {
       "slug": "q2w3-fixed-widget",
+      "tags": [
+        "ads",
+        "fixed widget",
+        "sidebar",
+        "sticky widget",
+        "widget"
+      ],
       "name": "Fixed Widget and Sticky Elements for WordPress",
       "version": "6.2.3",
       "active_installs": 70000,
@@ -96,6 +142,13 @@
     },
     {
       "slug": "add-from-server",
+      "tags": [
+        "admin",
+        "import",
+        "media",
+        "post",
+        "uploads"
+      ],
       "name": "Add From Server",
       "version": "3.4.5",
       "active_installs": 60000,
@@ -109,6 +162,13 @@
     },
     {
       "slug": "enhanced-media-library",
+      "tags": [
+        "media categories",
+        "media folders",
+        "media library",
+        "media tags",
+        "mime-types"
+      ],
       "name": "Enhanced Media Library",
       "version": "2.9.4",
       "active_installs": 60000,
@@ -122,6 +182,13 @@
     },
     {
       "slug": "woocommerce-extra-checkout-fields-for-brazil",
+      "tags": [
+        "brazil",
+        "checkout",
+        "cpf",
+        "cpnj",
+        "woocommerce"
+      ],
       "name": "Brazilian Market on WooCommerce",
       "version": "4.0.2",
       "active_installs": 60000,
@@ -135,6 +202,9 @@
     },
     {
       "slug": "sakura-rs-wp-ssl",
+      "tags": [
+        "ssl"
+      ],
       "name": "Easy SSL Plugin for SAKURA Rental Server",
       "version": "1.4.0",
       "active_installs": 50000,
@@ -148,6 +218,11 @@
     },
     {
       "slug": "disable-google-fonts",
+      "tags": [
+        "google fonts",
+        "Google Web Fonts",
+        "Open Sans"
+      ],
       "name": "Disable Google Fonts",
       "version": "2.0",
       "active_installs": 30000,
@@ -161,6 +236,13 @@
     },
     {
       "slug": "export-media-library",
+      "tags": [
+        "download",
+        "download media library",
+        "export",
+        "export media library",
+        "media library"
+      ],
       "name": "Export Media Library",
       "version": "4.0.2",
       "active_installs": 30000,
@@ -174,6 +256,13 @@
     },
     {
       "slug": "scripts-n-styles",
+      "tags": [
+        "admin",
+        "code",
+        "css",
+        "custom",
+        "javascript"
+      ],
       "name": "Scripts n Styles",
       "version": "3.5.8",
       "active_installs": 30000,
@@ -187,6 +276,13 @@
     },
     {
       "slug": "upload-max-file-size",
+      "tags": [
+        "increase file size limit",
+        "increase upload limit",
+        "max upload file size",
+        "post max size",
+        "upload limit"
+      ],
       "name": "Increase Maximum Upload File Size",
       "version": "2.0.4",
       "active_installs": 30000,
@@ -199,25 +295,19 @@
       "closure_reason": null
     },
     {
-      "slug": "block-options",
-      "name": "Gutenberg Block Editor Toolkit – EditorsKit",
-      "version": "1.40.6",
-      "active_installs": 20000,
-      "last_updated": "2024-05-28T12:30:00Z",
-      "tested": "6.5.14",
-      "requires": "5.0",
-      "requires_php": "5.6",
-      "directory_status": "open",
-      "closed_date": null,
-      "closure_reason": null
-    },
-    {
       "slug": "change-login-logo",
+      "tags": [
+        "Change default logo",
+        "custom logo",
+        "login logo",
+        "wordpress logo change",
+        "WP admin logo"
+      ],
       "name": "Change WordPress Login Logo",
       "version": "1.3",
       "active_installs": 20000,
       "last_updated": "2024-07-31T06:16:00Z",
-      "tested": "6.6.11",
+      "tested": "6.6.12",
       "requires": "4.3",
       "requires_php": "5.2.4",
       "directory_status": "open",
@@ -226,6 +316,13 @@
     },
     {
       "slug": "hide-admin-notices",
+      "tags": [
+        "hide admin notices",
+        "hide admin notifications",
+        "hide dashboard notices",
+        "hide dashboard notifications",
+        "hide updates nags"
+      ],
       "name": "Hide Admin Notices",
       "version": "2.1",
       "active_installs": 20000,
@@ -239,6 +336,13 @@
     },
     {
       "slug": "jetsticky-for-elementor",
+      "tags": [
+        "elementor",
+        "sticky",
+        "sticky column",
+        "sticky header",
+        "sticky section"
+      ],
       "name": "JetSticky For Elementor",
       "version": "1.0.4",
       "active_installs": 20000,
@@ -252,6 +356,13 @@
     },
     {
       "slug": "material-design-icons-for-elementor",
+      "tags": [
+        "beaver builder",
+        "beaver builder icons",
+        "elementor",
+        "elementor icons",
+        "material design icons"
+      ],
       "name": "Material Design Icons for Page Builders",
       "version": "1.5.1",
       "active_installs": 20000,
@@ -265,6 +376,12 @@
     },
     {
       "slug": "selfhost-google-fonts",
+      "tags": [
+        "dsgvo",
+        "GDPR",
+        "google fonts",
+        "typography"
+      ],
       "name": "Self-Hosted Google Fonts",
       "version": "1.0.1",
       "active_installs": 20000,
@@ -278,11 +395,16 @@
     },
     {
       "slug": "transients-manager",
+      "tags": [
+        "cron",
+        "tool",
+        "transient"
+      ],
       "name": "Transients Manager",
       "version": "2.0.7",
       "active_installs": 20000,
       "last_updated": "2024-10-18T17:06:00Z",
-      "tested": "6.6.11",
+      "tested": "6.6.12",
       "requires": "5.3",
       "requires_php": "5.6.20",
       "directory_status": "open",
@@ -291,11 +413,17 @@
     },
     {
       "slug": "wp-test-email",
+      "tags": [
+        "Check Mail",
+        "Emal Log",
+        "mail tester",
+        "Test email"
+      ],
       "name": "WP Test Email",
       "version": "1.1.7",
       "active_installs": 20000,
       "last_updated": "2024-07-31T06:18:00Z",
-      "tested": "6.6.11",
+      "tested": "6.6.12",
       "requires": "4.3",
       "requires_php": "5.2.4",
       "directory_status": "open",
@@ -304,6 +432,13 @@
     },
     {
       "slug": "accordion-blocks",
+      "tags": [
+        "Accordion",
+        "accordions",
+        "block",
+        "gutenberg",
+        "responsive"
+      ],
       "name": "Accordion Blocks",
       "version": "1.5.0",
       "active_installs": 10000,
@@ -316,12 +451,39 @@
       "closure_reason": null
     },
     {
+      "slug": "auth0",
+      "tags": [
+        "authentication",
+        "multi-factor",
+        "security",
+        "Single Sign-on",
+        "social"
+      ],
+      "name": "Login by Auth0",
+      "version": "4.6.2",
+      "active_installs": 10000,
+      "last_updated": "2024-07-12T16:57:00Z",
+      "tested": "6.5.14",
+      "requires": "6.5.5",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
       "slug": "blog-designer",
+      "tags": [
+        "blog design",
+        "blog layout",
+        "blog template",
+        "custom blog template",
+        "wordpress blog"
+      ],
       "name": "Blog Designer",
       "version": "3.1.8",
       "active_installs": 10000,
       "last_updated": "2024-08-12T13:17:00Z",
-      "tested": "6.6.11",
+      "tested": "6.6.12",
       "requires": "5.6",
       "requires_php": "7.0",
       "directory_status": "open",
@@ -330,6 +492,11 @@
     },
     {
       "slug": "breadcrumb-trail",
+      "tags": [
+        "breadcrumbs",
+        "menu",
+        "navigation"
+      ],
       "name": "Breadcrumb Trail",
       "version": "1.1.0",
       "active_installs": 10000,
@@ -343,6 +510,13 @@
     },
     {
       "slug": "bulk-post-update-date",
+      "tags": [
+        "bulk",
+        "date",
+        "posts",
+        "seo",
+        "update"
+      ],
       "name": "Bulk Post Update Date",
       "version": "1.6.0",
       "active_installs": 10000,
@@ -356,11 +530,17 @@
     },
     {
       "slug": "custom-icons-for-elementor",
+      "tags": [
+        "elementor",
+        "fontello",
+        "icon fonts",
+        "icons"
+      ],
       "name": "Custom Icons for Elementor",
       "version": "0.3.4",
       "active_installs": 10000,
       "last_updated": "2024-10-28T00:25:00Z",
-      "tested": "6.6.11",
+      "tested": "6.6.12",
       "requires": "5.4",
       "requires_php": "7.4",
       "directory_status": "open",
@@ -368,7 +548,31 @@
       "closure_reason": null
     },
     {
+      "slug": "cyclone-demo-importer",
+      "tags": [
+        "demo data",
+        "one click demo import"
+      ],
+      "name": "Cyclone Demo Importer",
+      "version": "2.9.60",
+      "active_installs": 10000,
+      "last_updated": "2024-06-18T09:59:00Z",
+      "tested": "6.5.14",
+      "requires": "4.9",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
       "slug": "disable-theme-and-plugin-auto-update-emails",
+      "tags": [
+        "email",
+        "Notifications",
+        "plugin update",
+        "theme update",
+        "updates"
+      ],
       "name": "Disable Theme and Plugin Auto-Update Emails",
       "version": "2.0.5",
       "active_installs": 10000,
@@ -382,6 +586,13 @@
     },
     {
       "slug": "g-meta-keywords",
+      "tags": [
+        "g meta keywords",
+        "gmk",
+        "keywords",
+        "meta",
+        "meta keywords"
+      ],
       "name": "G Meta Keywords",
       "version": "1.4",
       "active_installs": 10000,
@@ -395,11 +606,18 @@
     },
     {
       "slug": "gravity-forms-google-analytics-event-tracking",
+      "tags": [
+        "google analytics",
+        "google tag manager",
+        "gravity forms",
+        "matomo",
+        "piwik"
+      ],
       "name": "Event Tracking for Gravity Forms",
       "version": "2.5.0",
       "active_installs": 10000,
       "last_updated": "2024-11-03T23:15:00Z",
-      "tested": "6.7.11",
+      "tested": "6.7.12",
       "requires": "5.5",
       "requires_php": "5.6",
       "directory_status": "open",
@@ -408,6 +626,13 @@
     },
     {
       "slug": "kt-tinymce-color-grid",
+      "tags": [
+        "color",
+        "customizer",
+        "editor",
+        "gutenberg",
+        "palette"
+      ],
       "name": "Central Color Palette",
       "version": "1.15.5",
       "active_installs": 10000,
@@ -421,6 +646,11 @@
     },
     {
       "slug": "multiple-post-thumbnails",
+      "tags": [
+        "featured image",
+        "image",
+        "thumbnails"
+      ],
       "name": "Multiple Post Thumbnails",
       "version": "1.7",
       "active_installs": 10000,
@@ -433,7 +663,32 @@
       "closure_reason": null
     },
     {
+      "slug": "related-posts-flatsome",
+      "tags": [
+        "atweb.vn",
+        "flatsome",
+        "related posts",
+        "related posts flatsome"
+      ],
+      "name": "Related Posts Flatsome",
+      "version": "1.0.1",
+      "active_installs": 10000,
+      "last_updated": "2022-08-22T14:34:00Z",
+      "tested": "6.0.18",
+      "requires": "4.0",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
       "slug": "robots-txt-editor",
+      "tags": [
+        "crawler",
+        "robots",
+        "robots.txt",
+        "seo"
+      ],
       "name": "Robots.txt Editor",
       "version": "1.1.4",
       "active_installs": 10000,
@@ -446,12 +701,39 @@
       "closure_reason": null
     },
     {
+      "slug": "search-by-sku-for-woocommerce",
+      "tags": [
+        "ecommerce",
+        "search",
+        "sku",
+        "stock keeping unit",
+        "woocommerce"
+      ],
+      "name": "Search by SKU for Woocommerce",
+      "version": "0.8.0",
+      "active_installs": 10000,
+      "last_updated": "2021-07-16T14:46:00Z",
+      "tested": "5.7.21",
+      "requires": "3.1.0",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
       "slug": "shareaholic",
+      "tags": [
+        "google analytics",
+        "Pinterest",
+        "social",
+        "social sharing",
+        "twitter"
+      ],
       "name": "Professional Social Sharing Buttons, Icons & Related Posts – Shareaholic",
       "version": "9.7.13",
       "active_installs": 10000,
       "last_updated": "2024-11-05T19:08:00Z",
-      "tested": "6.7.11",
+      "tested": "6.7.12",
       "requires": "3.7",
       "requires_php": "5.3",
       "directory_status": "open",
@@ -460,6 +742,10 @@
     },
     {
       "slug": "video-user-manuals",
+      "tags": [
+        "manual",
+        "tutorials"
+      ],
       "name": "Video User Manuals",
       "version": "1.1",
       "active_installs": 10000,
@@ -473,11 +759,18 @@
     },
     {
       "slug": "visual-term-description-editor",
+      "tags": [
+        "categories",
+        "rich text",
+        "tags",
+        "tinyMCE",
+        "wysiwyg"
+      ],
       "name": "Visual Term Description Editor",
       "version": "1.8.1",
       "active_installs": 10000,
       "last_updated": "2024-08-17T01:44:00Z",
-      "tested": "6.6.11",
+      "tested": "6.6.12",
       "requires": "3.3",
       "requires_php": "5.4",
       "directory_status": "open",
@@ -485,20 +778,49 @@
       "closure_reason": null
     },
     {
-      "slug": "wd-instagram-feed",
-      "name": "10WebSocial",
-      "version": "1.4.35",
+      "slug": "wp-font-awesome",
+      "tags": [
+        "Font Awesome",
+        "font icon",
+        "FontAwesome",
+        "icon"
+      ],
+      "name": "WP Font Awesome",
+      "version": "1.8.0",
       "active_installs": 10000,
-      "last_updated": "2023-02-09T17:06:00Z",
-      "tested": "5.0.31",
-      "requires": "4.6",
-      "requires_php": "5.2",
+      "last_updated": "2024-07-09T06:56:00Z",
+      "tested": "6.6.12",
+      "requires": "3.2",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-security-hardening",
+      "tags": [
+        "discontinued"
+      ],
+      "name": "WP Hardening (discontinued)",
+      "version": "1.2.8",
+      "active_installs": 10000,
+      "last_updated": "2024-09-13T10:33:00Z",
+      "tested": "6.0.18",
+      "requires": "4.3",
+      "requires_php": "5.3",
       "directory_status": "open",
       "closed_date": null,
       "closure_reason": null
     },
     {
       "slug": "wp-tab-widget",
+      "tags": [
+        "ajax tabs",
+        "recent posts tab",
+        "tab widget",
+        "tabs",
+        "tabs widget"
+      ],
       "name": "WP Tab Widget",
       "version": "1.2.11",
       "active_installs": 10000,
@@ -506,6 +828,2855 @@
       "tested": "5.9.20",
       "requires": "5.6",
       "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "acf-theme-code",
+      "tags": [
+        "acf",
+        "advanced custom fields",
+        "automation",
+        "php"
+      ],
+      "name": "ACF Theme Code for Advanced Custom Fields",
+      "version": "2.5.6",
+      "active_installs": 9000,
+      "last_updated": "2023-11-28T01:28:00Z",
+      "tested": "6.4.14",
+      "requires": "4.9.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "qty-increment-buttons-for-woocommerce",
+      "tags": [
+        "buttons",
+        "increment",
+        "qty",
+        "quantity",
+        "woocommerce"
+      ],
+      "name": "Qty Increment Buttons for WooCommerce",
+      "version": "2.7.5",
+      "active_installs": 9000,
+      "last_updated": "2020-08-21T12:24:00Z",
+      "tested": "5.5.24",
+      "requires": "4.6",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "toggle-wpautop",
+      "tags": [
+        "editor",
+        "excerpt",
+        "formatting",
+        "post content",
+        "wpautop"
+      ],
+      "name": "Toggle wpautop",
+      "version": "1.3.0",
+      "active_installs": 9000,
+      "last_updated": "2021-04-07T13:35:00Z",
+      "tested": "5.7.21",
+      "requires": "3.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-change-default-from-email",
+      "tags": [
+        "change default from email",
+        "change from email",
+        "email",
+        "wp default email",
+        "wp-email"
+      ],
+      "name": "WP Change Default From Email",
+      "version": "1.1.6",
+      "active_installs": 9000,
+      "last_updated": "2024-06-23T09:13:00Z",
+      "tested": "6.5.14",
+      "requires": "2.7",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wpsimpletools-disable-comments",
+      "tags": [
+        "comments",
+        "disable comments",
+        "discussion",
+        "remove comments"
+      ],
+      "name": "Disable Comments",
+      "version": "1.0.4",
+      "active_installs": 9000,
+      "last_updated": "2021-04-14T12:52:00Z",
+      "tested": "5.7.21",
+      "requires": "4.0",
+      "requires_php": "5.0.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "ah-display-widgets",
+      "tags": [
+        "display widgets",
+        "hide",
+        "show",
+        "widget",
+        "widgets"
+      ],
+      "name": "AH Display Widgets",
+      "version": "1.0.3",
+      "active_installs": 8000,
+      "last_updated": "2018-10-29T18:53:00Z",
+      "tested": "5.0.31",
+      "requires": "4.5",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "bulk-move",
+      "tags": [
+        "bulk",
+        "category",
+        "mass",
+        "move",
+        "post"
+      ],
+      "name": "Bulk Move",
+      "version": "1.3.0",
+      "active_installs": 8000,
+      "last_updated": "2024-01-28T17:08:00Z",
+      "tested": "6.4.14",
+      "requires": "3.8",
+      "requires_php": "5.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "delete-pending-comments",
+      "tags": [
+        "comments",
+        "delete",
+        "mass delete comments",
+        "pending",
+        "spam"
+      ],
+      "name": "Delete Pending Comments",
+      "version": "1.0.0",
+      "active_installs": 8000,
+      "last_updated": "2024-01-28T17:10:00Z",
+      "tested": "6.4.14",
+      "requires": "2.7",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "international-telephone-input-for-contact-form-7",
+      "tags": [
+        "cf7 international phone input",
+        "contact form 7",
+        "country code",
+        "international phone input",
+        "telephone flags input"
+      ],
+      "name": "International Telephone Input for Contact Form 7",
+      "version": "1.5.7",
+      "active_installs": 8000,
+      "last_updated": "2022-02-21T04:53:00Z",
+      "tested": "5.9.20",
+      "requires": "4.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "max-upload-filesize",
+      "tags": [
+        "filesize",
+        "filesize limit",
+        "increase upload filesize",
+        "max filesize",
+        "upload"
+      ],
+      "name": "Max upload filesize",
+      "version": "1.1.0",
+      "active_installs": 8000,
+      "last_updated": "2019-12-07T17:15:00Z",
+      "tested": "5.3.27",
+      "requires": "5.0.4",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "simple-post-type-permalinks",
+      "tags": [
+        "cms",
+        "custom post type",
+        "permalink",
+        "permalinks"
+      ],
+      "name": "Simple Post Type Permalinks",
+      "version": "2.0.5",
+      "active_installs": 8000,
+      "last_updated": "2019-06-04T22:43:00Z",
+      "tested": "5.2.30",
+      "requires": "4.0",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "sinatra-core",
+      "tags": [
+        "blocks",
+        "custom blocks",
+        "demo template",
+        "demos",
+        "widgets"
+      ],
+      "name": "Sinatra Core",
+      "version": "1.0.5",
+      "active_installs": 8000,
+      "last_updated": "2023-08-30T18:02:00Z",
+      "tested": "6.3.14",
+      "requires": "6.0",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "sold-out-badge-for-woocommerce",
+      "tags": [
+        "badge",
+        "out of stock",
+        "sold out",
+        "wcsob",
+        "woocommerce"
+      ],
+      "name": "Sold Out Badge for WooCommerce",
+      "version": "4.4.0",
+      "active_installs": 8000,
+      "last_updated": "2023-05-30T19:26:00Z",
+      "tested": "6.2.15",
+      "requires": "5.2",
+      "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "taxonomy-images",
+      "tags": [
+        "category",
+        "image",
+        "tag",
+        "taxonomy",
+        "term"
+      ],
+      "name": "Taxonomy Images",
+      "version": "1.0",
+      "active_installs": 8000,
+      "last_updated": "2024-02-15T18:12:00Z",
+      "tested": "6.4.14",
+      "requires": "4.4",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-custom-cursors",
+      "tags": [
+        "cursor",
+        "cursor plugin",
+        "custom cursor",
+        "mouse plugin",
+        "wordpress cursor"
+      ],
+      "name": "WP Custom Cursors | WordPress Cursor Plugin",
+      "version": "3.3",
+      "active_installs": 8000,
+      "last_updated": "2024-03-03T07:00:00Z",
+      "tested": "6.4.14",
+      "requires": "6.2",
+      "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "ajax-cart-autoupdate-for-woocommerce",
+      "tags": [
+        "ajax",
+        "autoupdate",
+        "cart",
+        "update",
+        "woocommerce"
+      ],
+      "name": "Ajax Cart AutoUpdate for WooCommerce",
+      "version": "1.5.5",
+      "active_installs": 7000,
+      "last_updated": "2021-03-30T21:37:00Z",
+      "tested": "5.7.21",
+      "requires": "4.6",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "algori-pdf-viewer",
+      "tags": [
+        "block",
+        "block-editor",
+        "gutenberg",
+        "pdf embedder",
+        "pdf viewer"
+      ],
+      "name": "Algori PDF Viewer",
+      "version": "1.0.8",
+      "active_installs": 7000,
+      "last_updated": "2024-11-07T12:50:00Z",
+      "tested": "6.6.12",
+      "requires": "5.0.0",
+      "requires_php": "5.6.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "chl-change-html-lang",
+      "tags": [
+        "html lang",
+        "Lang Attribute",
+        "seo"
+      ],
+      "name": "CHL-Change HTML Lang",
+      "version": "1.1.6",
+      "active_installs": 7000,
+      "last_updated": "2024-05-17T17:46:00Z",
+      "tested": "6.6.12",
+      "requires": "4.0",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "classic-menu-block",
+      "tags": [
+        "block",
+        "menu",
+        "navigation"
+      ],
+      "name": "Classic Menu Block",
+      "version": "0.1.7",
+      "active_installs": 7000,
+      "last_updated": "2024-04-24T18:39:00Z",
+      "tested": "6.5.14",
+      "requires": "5.9",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "delete-me",
+      "tags": [
+        "delete",
+        "GDPR",
+        "multisite",
+        "unsubscribe",
+        "user management"
+      ],
+      "name": "Delete Me",
+      "version": "3.2",
+      "active_installs": 7000,
+      "last_updated": "2024-06-02T14:24:00Z",
+      "tested": "6.5.14",
+      "requires": "3.7",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "get-the-image",
+      "tags": [
+        "image",
+        "images",
+        "thumbnail"
+      ],
+      "name": "Get the Image",
+      "version": "1.1.0",
+      "active_installs": 7000,
+      "last_updated": "2017-11-28T06:44:00Z",
+      "tested": "4.8.34",
+      "requires": "3.9",
+      "requires_php": "5.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "jquery-manager",
+      "tags": [
+        "jquery",
+        "jquery manager",
+        "jquery update",
+        "jquery updater",
+        "jquery-migrate"
+      ],
+      "name": "jQuery Manager for WordPress",
+      "version": "1.10.6",
+      "active_installs": 7000,
+      "last_updated": "2020-07-20T11:07:00Z",
+      "tested": "5.5.24",
+      "requires": "4.9",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "remove-xmlrpc-pingback-ping",
+      "tags": [
+        "disable ping",
+        "ping",
+        "pingback",
+        "xml-rpc",
+        "xmlrpc"
+      ],
+      "name": "Remove & Disable XML-RPC Pingback",
+      "version": "1.6",
+      "active_installs": 7000,
+      "last_updated": "2023-07-24T23:03:00Z",
+      "tested": "6.3.14",
+      "requires": "5.2",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "reorder-post-within-categories",
+      "tags": [
+        "order",
+        "order by category",
+        "order custom post type",
+        "re-order",
+        "reorder"
+      ],
+      "name": "ReOrder Posts within Categories",
+      "version": "2.14.5",
+      "active_installs": 7000,
+      "last_updated": "2023-12-08T08:12:00Z",
+      "tested": "6.3.0",
+      "requires": "4.4",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "rest-api-oauth1",
+      "tags": [
+        "api",
+        "JSON",
+        "rest",
+        "rest-api"
+      ],
+      "name": "WP REST API – OAuth 1.0a Server",
+      "version": "0.4.4",
+      "active_installs": 7000,
+      "last_updated": "2024-08-05T10:18:00Z",
+      "tested": "6.6.12",
+      "requires": "4.4",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "template-kit-export",
+      "tags": [
+        "elementor",
+        "template",
+        "templates"
+      ],
+      "name": "Template Kit – Export",
+      "version": "1.0.23",
+      "active_installs": 7000,
+      "last_updated": "2024-08-01T01:44:00Z",
+      "tested": "6.5.14",
+      "requires": "5.3",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "who-stole-the-text-justify-button",
+      "tags": [
+        "4.7",
+        "justification",
+        "justifier",
+        "justify",
+        "tinyMCE"
+      ],
+      "name": "Who Stole the Text Justify Button ?!",
+      "version": "1.0",
+      "active_installs": 7000,
+      "last_updated": "2019-10-23T07:46:00Z",
+      "tested": "5.3.27",
+      "requires": "4.7",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-mailto-links",
+      "tags": [
+        "antispam",
+        "email",
+        "email address",
+        "hide",
+        "mailto"
+      ],
+      "name": "WP Mailto Links – Protect Email Addresses",
+      "version": "3.1.4",
+      "active_installs": 7000,
+      "last_updated": "2023-09-22T16:55:00Z",
+      "tested": "6.2.15",
+      "requires": "4.7",
+      "requires_php": "5.3.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "booster-extension",
+      "tags": [
+        "post like and dislike",
+        "post reactions",
+        "read time",
+        "share count",
+        "social share"
+      ],
+      "name": "Booster Extension",
+      "version": "1.2.2",
+      "active_installs": 6000,
+      "last_updated": "2024-04-26T04:40:00Z",
+      "tested": "6.5.14",
+      "requires": "4.5",
+      "requires_php": "5.5",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "easy-add-thumbnail",
+      "tags": [
+        "automatic feature image",
+        "automatic thumbail",
+        "featured image",
+        "thumbnail",
+        "thumbnails"
+      ],
+      "name": "Easy Add Thumbnail",
+      "version": "1.1.3",
+      "active_installs": 6000,
+      "last_updated": "2023-10-05T16:22:00Z",
+      "tested": "6.3.14",
+      "requires": "4.7",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "editorplus",
+      "tags": [
+        "block",
+        "blocks",
+        "editor",
+        "gutenberg",
+        "gutenberg blocks"
+      ],
+      "name": "Gutenberg Blocks Library & Toolkit – Editor Plus",
+      "version": "2.10.0",
+      "active_installs": 6000,
+      "last_updated": "2023-11-09T08:21:00Z",
+      "tested": "6.4.14",
+      "requires": "5.0",
+      "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "faq-schema-for-pages-and-posts",
+      "tags": [
+        "JSON-LD",
+        "rich snippets",
+        "schema",
+        "schema.org",
+        "seo"
+      ],
+      "name": "FAQ Schema For Pages And Posts",
+      "version": "2.3.0",
+      "active_installs": 6000,
+      "last_updated": "2022-02-21T20:46:00Z",
+      "tested": "5.9.20",
+      "requires": "4.6",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "rest-api-meta-support",
+      "tags": [
+        "meta",
+        "rest",
+        "wp-api"
+      ],
+      "name": "REST API Meta Support",
+      "version": "1.0.0",
+      "active_installs": 6000,
+      "last_updated": "2020-05-29T18:33:00Z",
+      "tested": "5.4.25",
+      "requires": "1.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "seed-social",
+      "tags": [
+        "facebook",
+        "line",
+        "share",
+        "social",
+        "twitter"
+      ],
+      "name": "Seed Social",
+      "version": "2.0.6",
+      "active_installs": 6000,
+      "last_updated": "2024-08-06T04:01:00Z",
+      "tested": "6.6.12",
+      "requires": "4.5",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "simple-iframe",
+      "tags": [
+        "block",
+        "external",
+        "iframe"
+      ],
+      "name": "Simple Iframe",
+      "version": "1.2.0",
+      "active_installs": 6000,
+      "last_updated": "2024-06-09T19:35:00Z",
+      "tested": "6.6.0",
+      "requires": "5.0.0",
+      "requires_php": "7.4.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "themezee-toolkit",
+      "tags": [
+        "infinite scroll",
+        "ThemeZee",
+        "toolkit",
+        "widget logic",
+        "widget visibility"
+      ],
+      "name": "ThemeZee Toolkit",
+      "version": "1.3",
+      "active_installs": 6000,
+      "last_updated": "2021-06-06T17:13:00Z",
+      "tested": "5.8.19",
+      "requires": "4.7",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "ultimate-410",
+      "tags": [
+        "410",
+        "http-status"
+      ],
+      "name": "Ultimate 410 Gone Status Code",
+      "version": "1.1.7",
+      "active_installs": 6000,
+      "last_updated": "2024-08-15T07:46:00Z",
+      "tested": "6.6.12",
+      "requires": "5.1",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-responsive-table",
+      "tags": [
+        "mobile",
+        "responsive",
+        "responsive tables",
+        "table",
+        "tables"
+      ],
+      "name": "WP Responsive Table",
+      "version": "1.2.6",
+      "active_installs": 6000,
+      "last_updated": "2021-01-16T01:04:00Z",
+      "tested": "5.6.23",
+      "requires": "4.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "allow-webp-image",
+      "tags": [
+        "allow-webp",
+        "webp"
+      ],
+      "name": "Allow Webp image",
+      "version": "1.0.1",
+      "active_installs": 5000,
+      "last_updated": "2022-01-31T06:48:00Z",
+      "tested": "5.9.20",
+      "requires": "3.0.1",
+      "requires_php": "5.8",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "bst-dsgvo-cookie",
+      "tags": [
+        "cookie",
+        "cookie banner",
+        "cookie notice",
+        "cookie pop up",
+        "dsgvo"
+      ],
+      "name": "BST DSGVO Cookie",
+      "version": "1.2.9",
+      "active_installs": 5000,
+      "last_updated": "2021-09-19T17:13:00Z",
+      "tested": "5.8.19",
+      "requires": "5.0",
+      "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "cestina-zalomeni-radku",
+      "tags": [
+        "gramatika",
+        "spisovná čeština",
+        "tvrdá mezera",
+        "zalamování",
+        "čeština"
+      ],
+      "name": "Čeština: zalomení řádků",
+      "version": "1.0.3",
+      "active_installs": 5000,
+      "last_updated": "2023-03-27T12:31:00Z",
+      "tested": "6.1.16",
+      "requires": "4.0.1",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "custom-links-in-elementor-image-carousel",
+      "tags": [
+        "custom links",
+        "elementor",
+        "Image carousel"
+      ],
+      "name": "Custom links in Elementor Image Carousel",
+      "version": "1.1.1",
+      "active_installs": 5000,
+      "last_updated": "2022-11-09T21:57:00Z",
+      "tested": "6.1.16",
+      "requires": "5.2",
+      "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "dco-comment-attachment",
+      "tags": [
+        "attachment",
+        "comment",
+        "comment attachment",
+        "image",
+        "video"
+      ],
+      "name": "DCO Comment Attachment",
+      "version": "2.4.0",
+      "active_installs": 5000,
+      "last_updated": "2022-10-02T22:41:00Z",
+      "tested": "6.0.18",
+      "requires": "4.6",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "duplicate-pages-posts",
+      "tags": [
+        "clone custom post type",
+        "clone custom posts",
+        "clone page",
+        "clone post",
+        "duplicate page"
+      ],
+      "name": "Duplicate Pages, Posts and CPT",
+      "version": "1.3",
+      "active_installs": 5000,
+      "last_updated": "2024-06-13T15:43:00Z",
+      "tested": "6.5.14",
+      "requires": "4.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "embed-google-fonts",
+      "tags": [
+        "embed",
+        "GDPR",
+        "google fonts"
+      ],
+      "name": "Embed Google Fonts",
+      "version": "3.1.1",
+      "active_installs": 5000,
+      "last_updated": "2024-05-02T08:28:00Z",
+      "tested": "6.5.14",
+      "requires": "6.5.2",
+      "requires_php": "8.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "link-juice-optimizer",
+      "tags": [
+        "crawl budget",
+        "internal linking",
+        "link juice",
+        "obfuscation"
+      ],
+      "name": "Link Juice Optimizer",
+      "version": "2.3.2",
+      "active_installs": 5000,
+      "last_updated": "2024-01-16T18:16:00Z",
+      "tested": "6.4.14",
+      "requires": "5.0",
+      "requires_php": "5.6.39",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "multiple-featured-images",
+      "tags": [
+        "custom post type",
+        "featured image",
+        "multiple featured image",
+        "multiple featured images",
+        "post thumbnail"
+      ],
+      "name": "Multiple Featured Images",
+      "version": "0.5.0",
+      "active_installs": 5000,
+      "last_updated": "2020-08-20T08:32:00Z",
+      "tested": "5.5.24",
+      "requires": "3.5",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "native-lazyload",
+      "tags": [
+        "lazy",
+        "lazyload",
+        "load",
+        "loading",
+        "native"
+      ],
+      "name": "Native Lazyload",
+      "version": "1.0.2",
+      "active_installs": 5000,
+      "last_updated": "2019-12-06T16:56:00Z",
+      "tested": "5.3.27",
+      "requires": "4.7",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "psn-pagespeed-ninja",
+      "tags": [
+        "convert webp",
+        "defer css javascript",
+        "minify css",
+        "minify javascript",
+        "performance"
+      ],
+      "name": "PageSpeed Ninja – Cache, Minify, Defer CSS JavaScript, Critical CSS, Optimize Images, Convert WebP",
+      "version": "1.4.5",
+      "active_installs": 5000,
+      "last_updated": "2024-09-26T12:19:00Z",
+      "tested": "6.6.12",
+      "requires": "4.6",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "remove-noreferrer",
+      "tags": [
+        "comments",
+        "noreferrer",
+        "page",
+        "post",
+        "widgets"
+      ],
+      "name": "Remove noreferrer",
+      "version": "2.0.0",
+      "active_installs": 5000,
+      "last_updated": "2021-01-04T11:56:00Z",
+      "tested": "5.6.23",
+      "requires": "5.1",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "sitemap-by-click5",
+      "tags": [
+        "click5",
+        "google sitemap",
+        "html sitemap",
+        "sitemap",
+        "xml sitemap"
+      ],
+      "name": "Sitemap by click5",
+      "version": "1.0.42",
+      "active_installs": 5000,
+      "last_updated": "2023-09-28T16:41:00Z",
+      "tested": "6.3.14",
+      "requires": "5.3",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "soundcloud-shortcode",
+      "tags": [
+        "shortcode",
+        "soundcloud"
+      ],
+      "name": "SoundCloud Shortcode",
+      "version": "4.0.3",
+      "active_installs": 5000,
+      "last_updated": "2024-03-28T10:37:00Z",
+      "tested": "6.4.14",
+      "requires": "3.1.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "sparkle-demo-importer",
+      "tags": [
+        "demo data",
+        "demo importer",
+        "importer",
+        "sparkle demo",
+        "sparkle demo data"
+      ],
+      "name": "Sparkle Demo Importer",
+      "version": "1.4.8",
+      "active_installs": 5000,
+      "last_updated": "2024-06-20T05:11:00Z",
+      "tested": "6.2.15",
+      "requires": "4.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "states-cities-and-places-for-woocommerce",
+      "tags": [
+        "cities",
+        "locations",
+        "provinces",
+        "states",
+        "woocommerce"
+      ],
+      "name": "States, Cities, and Places for WooCommerce",
+      "version": "1.3.2",
+      "active_installs": 5000,
+      "last_updated": "2022-02-21T04:46:00Z",
+      "tested": "5.9.20",
+      "requires": "4.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "toolkit-for-envato",
+      "tags": [
+        "api",
+        "envato",
+        "license",
+        "purchase validator",
+        "update checker"
+      ],
+      "name": "Envato Toolkit",
+      "version": "1.4",
+      "active_installs": 5000,
+      "last_updated": "2021-04-26T18:00:00Z",
+      "tested": "5.7.21",
+      "requires": "4.6",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "turn-rank-math-faq-block-to-accordion",
+      "tags": [
+        "faq",
+        "rank math",
+        "Rank Math SEO",
+        "Readability",
+        "seo"
+      ],
+      "name": "Turn Rank Math FAQ Block to Accordion",
+      "version": "1.1.0",
+      "active_installs": 5000,
+      "last_updated": "2024-05-21T21:17:00Z",
+      "tested": "6.5.14",
+      "requires": "5.0",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "userheat",
+      "tags": [
+        "analytics",
+        "analyze",
+        "click",
+        "heatmap",
+        "Japanese"
+      ],
+      "name": "UserHeat Plugin",
+      "version": "1.1.11",
+      "active_installs": 5000,
+      "last_updated": "2024-04-01T07:58:00Z",
+      "tested": "5.6.23",
+      "requires": "4.2",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-comment-policy-checkbox",
+      "tags": [
+        "checkbox",
+        "comments",
+        "customized text",
+        "GDPR",
+        "Privacy Policy"
+      ],
+      "name": "WP Comment Policy Checkbox",
+      "version": "0.4.1",
+      "active_installs": 5000,
+      "last_updated": "2024-07-06T10:11:00Z",
+      "tested": "6.5.14",
+      "requires": "3.0.2",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wppao-sitemap",
+      "tags": [
+        "baidu",
+        "seo",
+        "sitemap"
+      ],
+      "name": "Wppao Sitemap",
+      "version": "1.2.0",
+      "active_installs": 5000,
+      "last_updated": "2020-05-26T09:55:00Z",
+      "tested": "5.4.25",
+      "requires": "4.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "acf-autosize",
+      "tags": [
+        "acf",
+        "autoresize",
+        "autosize",
+        "wysiwyg"
+      ],
+      "name": "ACF Autosize",
+      "version": "2.0.15",
+      "active_installs": 4000,
+      "last_updated": "2022-01-28T10:10:00Z",
+      "tested": "5.9.20",
+      "requires": "3.6.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "animate-on-scroll",
+      "tags": [
+        "animate",
+        "animation",
+        "aos",
+        "scroll",
+        "scroll animation"
+      ],
+      "name": "Animate on Scroll",
+      "version": "1.0.7",
+      "active_installs": 4000,
+      "last_updated": "2024-04-08T03:50:00Z",
+      "tested": "6.5.14",
+      "requires": "5.8",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "cf7-polylang",
+      "tags": [
+        "contact form 7",
+        "contact form 7 extension",
+        "contact form 7 module",
+        "multisite",
+        "polylang"
+      ],
+      "name": "Contact Form 7 Polylang Module",
+      "version": "2.4.1",
+      "active_installs": 4000,
+      "last_updated": "2023-12-13T15:51:00Z",
+      "tested": "6.4.14",
+      "requires": "4.7",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "chat-me-now",
+      "tags": [
+        "action button",
+        "chat",
+        "comments",
+        "support",
+        "whatsapp"
+      ],
+      "name": "chat-me-now",
+      "version": "1.0.2",
+      "active_installs": 4000,
+      "last_updated": "2021-05-22T11:44:00Z",
+      "tested": "5.7.21",
+      "requires": "4.7",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "dco-insert-analytics-code",
+      "tags": [
+        "analytics",
+        "google analytics",
+        "metrika",
+        "yandex metrica"
+      ],
+      "name": "DCO Insert Analytics Code",
+      "version": "1.1.3",
+      "active_installs": 4000,
+      "last_updated": "2021-07-28T12:29:00Z",
+      "tested": "5.8.19",
+      "requires": "4.6",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "disable-new-user-notifications",
+      "tags": [
+        "disable admin notifications",
+        "disable notification",
+        "disable user emails",
+        "disable user notification emails",
+        "email"
+      ],
+      "name": "Disable New User Notification Emails",
+      "version": "2.0.0",
+      "active_installs": 4000,
+      "last_updated": "2021-07-19T04:46:00Z",
+      "tested": "5.8.19",
+      "requires": "4.6",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "embed-code",
+      "tags": [
+        "embed code",
+        "embed javascript",
+        "footer code",
+        "header code",
+        "tracking code"
+      ],
+      "name": "Embed Code – Headers & Footers by DesignBombs",
+      "version": "2.0.4",
+      "active_installs": 4000,
+      "last_updated": "2021-08-04T08:03:00Z",
+      "tested": "5.8.19",
+      "requires": "4.7.0",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "find-my-blocks",
+      "tags": [
+        "blocks",
+        "find",
+        "gutenberg",
+        "locator",
+        "search blocks"
+      ],
+      "name": "Find My Blocks – Locate blocks on your site",
+      "version": "4.0.3",
+      "active_installs": 4000,
+      "last_updated": "2024-11-13T09:37:00Z",
+      "tested": "6.7.12",
+      "requires": "5.0",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "google-analytics-opt-out",
+      "tags": [
+        "dsgvo",
+        "GDPR",
+        "google analytics opt-out",
+        "monster insights"
+      ],
+      "name": "Google Analytics Opt-Out",
+      "version": "2.3.6",
+      "active_installs": 4000,
+      "last_updated": "2023-06-30T12:37:00Z",
+      "tested": "6.2.15",
+      "requires": "4.8.0",
+      "requires_php": "5.6.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "hide-featured-image-on-all-single-pagepost",
+      "tags": [
+        "featured images"
+      ],
+      "name": "Hide featured image on all single page/post",
+      "version": "1.0",
+      "active_installs": 4000,
+      "last_updated": "2022-02-04T21:15:00Z",
+      "tested": "5.9.20",
+      "requires": "4.6",
+      "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "icon-widget",
+      "tags": [
+        "FontAwesome",
+        "icon",
+        "widget"
+      ],
+      "name": "Icon Widget",
+      "version": "1.4.0",
+      "active_installs": 4000,
+      "last_updated": "2024-04-10T12:35:00Z",
+      "tested": "6.5.14",
+      "requires": "5.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "no-captcha-recaptcha",
+      "tags": [
+        "comment form",
+        "login",
+        "recaptcha",
+        "registration form",
+        "security"
+      ],
+      "name": "No CAPTCHA reCAPTCHA",
+      "version": "1.3.4",
+      "active_installs": 4000,
+      "last_updated": "2020-04-15T16:05:00Z",
+      "tested": "5.4.25",
+      "requires": "4.0",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "pix-por-piggly",
+      "tags": [
+        "e-commerce",
+        "payment",
+        "pix",
+        "shop",
+        "woocommerce"
+      ],
+      "name": "Pix por Piggly (para Woocommerce)",
+      "version": "2.1.2",
+      "active_installs": 4000,
+      "last_updated": "2024-06-23T15:06:00Z",
+      "tested": "6.5.14",
+      "requires": "6.0",
+      "requires_php": "8.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "reusable-content-blocks",
+      "tags": [
+        "reusable content blocks",
+        "reusable content widget",
+        "thecodepoetry",
+        "WPBakery global widget"
+      ],
+      "name": "Reusable Content Blocks",
+      "version": "1.1.3",
+      "active_installs": 4000,
+      "last_updated": "2023-01-30T16:53:00Z",
+      "tested": "6.1.16",
+      "requires": "4.9.7",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "rocket-maintenance-mode",
+      "tags": [
+        "coming soon",
+        "coming soon page",
+        "maintenance",
+        "maintenance mode",
+        "maintenance mode page"
+      ],
+      "name": "Rocket Maintenance Mode & Coming Soon Page",
+      "version": "4.4",
+      "active_installs": 4000,
+      "last_updated": "2024-03-18T11:48:00Z",
+      "tested": "6.4.14",
+      "requires": "3.1",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "animentor-lottie-bodymovin-elementor",
+      "tags": [
+        "animation",
+        "animations",
+        "bodymovin",
+        "elementor",
+        "lottie"
+      ],
+      "name": "Animentor – Lottie & Bodymovin for Elementor",
+      "version": "1.1.1",
+      "active_installs": 3000,
+      "last_updated": "2021-01-29T18:53:00Z",
+      "tested": "5.6.23",
+      "requires": "5.0",
+      "requires_php": "5.6.20",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "auto-copyright-year-updater",
+      "tags": [
+        "copyright",
+        "shortcode",
+        "widget"
+      ],
+      "name": "Auto Copyright Year Updater",
+      "version": "1.3",
+      "active_installs": 3000,
+      "last_updated": "2024-07-10T20:06:00Z",
+      "tested": "6.5.14",
+      "requires": "4.6",
+      "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "block-for-woo-product-table",
+      "tags": [
+        "block",
+        "blocks",
+        "Gutenberg block",
+        "order form",
+        "product table"
+      ],
+      "name": "Gutenberg Block for WooCommerce Product Table",
+      "version": "1.0.11",
+      "active_installs": 3000,
+      "last_updated": "2024-11-13T09:40:00Z",
+      "tested": "6.7.12",
+      "requires": "6.1.0",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "block-navigation",
+      "tags": [
+        "blocks",
+        "drag-and-drop",
+        "editor",
+        "gutenberg",
+        "navigation"
+      ],
+      "name": "Block Navigation",
+      "version": "4.1.1",
+      "active_installs": 3000,
+      "last_updated": "2022-05-19T18:46:00Z",
+      "tested": "6.0.18",
+      "requires": "5.8",
+      "requires_php": "7.1",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "block-slider",
+      "tags": [
+        "image slider",
+        "post slider",
+        "responsive slider",
+        "slider",
+        "wordpress slider"
+      ],
+      "name": "Block Slider – Responsive Image Slider, Video Slider & Post Slider",
+      "version": "2.2.3",
+      "active_installs": 3000,
+      "last_updated": "2024-02-21T09:46:00Z",
+      "tested": "6.4.14",
+      "requires": "5.7",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "cjdropshipping",
+      "tags": [
+        "1.0.0"
+      ],
+      "name": "CJdropshipping",
+      "version": "1.0.0",
+      "active_installs": 3000,
+      "last_updated": "2022-03-02T07:32:00Z",
+      "tested": "5.8.19",
+      "requires": "4.6",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "code-widget",
+      "tags": [
+        "code",
+        "html",
+        "php",
+        "short code",
+        "widget"
+      ],
+      "name": "Code Widget",
+      "version": "1.0.15",
+      "active_installs": 3000,
+      "last_updated": "2022-06-11T11:06:00Z",
+      "tested": "6.1.0",
+      "requires": "4.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "customize-login-image",
+      "tags": [
+        "admin",
+        "custom",
+        "customize",
+        "login",
+        "logo"
+      ],
+      "name": "Customize Login Image",
+      "version": "3.5.3",
+      "active_installs": 3000,
+      "last_updated": "2023-09-23T06:15:00Z",
+      "tested": "6.3.14",
+      "requires": "3.0.1",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "editor-full-width",
+      "tags": [
+        "blocks",
+        "editor",
+        "gutenberg",
+        "page builder",
+        "width"
+      ],
+      "name": "Editor Full Width Gutenberg",
+      "version": "1.0.5",
+      "active_installs": 3000,
+      "last_updated": "2020-08-04T12:21:00Z",
+      "tested": "5.5.0",
+      "requires": "4.9.8",
+      "requires_php": "5.6.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "featured-galleries",
+      "tags": [
+        "admin",
+        "backend",
+        "featured",
+        "galleries",
+        "images"
+      ],
+      "name": "Featured Galleries",
+      "version": "2.1.0",
+      "active_installs": 3000,
+      "last_updated": "2018-08-02T22:31:00Z",
+      "tested": "4.9.35",
+      "requires": "3.8.0",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "genesis-dambuster",
+      "tags": [
+        "beaver builder",
+        "full width templates",
+        "genesis plugin"
+      ],
+      "name": "Genesis Dambuster",
+      "version": "1.11.0",
+      "active_installs": 3000,
+      "last_updated": "2019-03-28T11:27:00Z",
+      "tested": "5.1.28",
+      "requires": "3.5",
+      "requires_php": "5.3.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "image-optimizer-wd",
+      "tags": [
+        "compress",
+        "image",
+        "Images Optimization",
+        "performance",
+        "photos"
+      ],
+      "name": "Image Optimizer by 10web – Image Optimizer and Compression plugin",
+      "version": "6.0.67",
+      "active_installs": 3000,
+      "last_updated": "2024-11-13T12:02:00Z",
+      "tested": "6.7.12",
+      "requires": "3.9",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "lazy-load-optimizer",
+      "tags": [
+        "image lazy load",
+        "lazy load",
+        "Lazy Loading",
+        "lazyload",
+        "Optimize"
+      ],
+      "name": "Lazy Load Optimizer",
+      "version": "1.4.7",
+      "active_installs": 3000,
+      "last_updated": "2021-01-16T23:25:00Z",
+      "tested": "5.6.23",
+      "requires": "4.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "oembed-plus",
+      "tags": [
+        "embed",
+        "facebook",
+        "Instagram",
+        "oembed"
+      ],
+      "name": "oEmbed Plus",
+      "version": "1.6",
+      "active_installs": 3000,
+      "last_updated": "2021-07-15T10:24:00Z",
+      "tested": "5.6.23",
+      "requires": "4.9",
+      "requires_php": "7.1",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "save-with-keyboard",
+      "tags": [
+        "keyboard",
+        "publish",
+        "save",
+        "shortcut",
+        "update"
+      ],
+      "name": "Save with keyboard",
+      "version": "3.0.2",
+      "active_installs": 3000,
+      "last_updated": "2018-11-03T08:57:00Z",
+      "tested": "5.0.31",
+      "requires": "3.0",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "security-headers",
+      "tags": [
+        "hsts",
+        "https",
+        "nosniff",
+        "tls"
+      ],
+      "name": "Security Headers",
+      "version": "1.1",
+      "active_installs": 3000,
+      "last_updated": "2019-02-26T16:39:00Z",
+      "tested": "5.1.28",
+      "requires": "3.8.1",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "send-images-rss",
+      "tags": [
+        "email",
+        "feed",
+        "images",
+        "mailchimp",
+        "rss"
+      ],
+      "name": "Send Images to RSS",
+      "version": "3.4.1",
+      "active_installs": 3000,
+      "last_updated": "2020-08-31T21:43:00Z",
+      "tested": "5.5.24",
+      "requires": "4.9",
+      "requires_php": "5.6.20",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "shortcode-gallery-for-matterport-showcase",
+      "tags": [
+        "matterport",
+        "shortcode"
+      ],
+      "name": "Matterport Shortcode",
+      "version": "2.2.2",
+      "active_installs": 3000,
+      "last_updated": "2024-06-06T18:46:00Z",
+      "tested": "6.5.14",
+      "requires": "4.0.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "simple-icons",
+      "tags": [
+        "add social media icons to wordpress",
+        "icons shortcodes",
+        "menu icons",
+        "social media icons",
+        "svg icons"
+      ],
+      "name": "Popular Brand Icons – Simple Icons",
+      "version": "2.8.4",
+      "active_installs": 3000,
+      "last_updated": "2023-11-20T20:08:00Z",
+      "tested": "6.3.14",
+      "requires": "2.8",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "simple-keyword-to-link",
+      "tags": [
+        "keyword",
+        "keywords",
+        "link",
+        "link building",
+        "links"
+      ],
+      "name": "Simple Keyword to Link",
+      "version": "1.5",
+      "active_installs": 3000,
+      "last_updated": "2024-08-21T13:07:00Z",
+      "tested": "6.6.12",
+      "requires": "4.7",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "static-404",
+      "tags": [
+        "404",
+        "errors",
+        "performance"
+      ],
+      "name": "Static 404",
+      "version": "1.1.0",
+      "active_installs": 3000,
+      "last_updated": "2021-08-20T15:47:00Z",
+      "tested": "5.8.19",
+      "requires": "5.2",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "subtitles",
+      "tags": [
+        "subtitle",
+        "subtitles",
+        "title",
+        "titles"
+      ],
+      "name": "Subtitles",
+      "version": "3.0.0",
+      "active_installs": 3000,
+      "last_updated": "2017-08-29T03:15:00Z",
+      "tested": "4.8.34",
+      "requires": "3.9",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "um-online",
+      "tags": [
+        "community",
+        "member",
+        "membership",
+        "user profile"
+      ],
+      "name": "Ultimate Member – Online Users",
+      "version": "2.2.2",
+      "active_installs": 3000,
+      "last_updated": "2024-11-15T16:47:00Z",
+      "tested": "6.7.12",
+      "requires": "5.5",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-gatsby",
+      "tags": [
+        "gatsby",
+        "gatsbyjs",
+        "jamstack",
+        "javascript",
+        "static site generator"
+      ],
+      "name": "WPGatsby",
+      "version": "2.3.3",
+      "active_installs": 3000,
+      "last_updated": "2022-05-04T18:24:00Z",
+      "tested": "5.9.20",
+      "requires": "5.4.2",
+      "requires_php": "7.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-visitors-widget",
+      "tags": [
+        "click counter",
+        "marketing",
+        "wordpress visitor counter"
+      ],
+      "name": "Live Visitor Counter",
+      "version": "2.2",
+      "active_installs": 3000,
+      "last_updated": "2023-06-20T10:26:00Z",
+      "tested": "6.2.15",
+      "requires": "4.0",
+      "requires_php": "5.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "acf-rus-to-lat",
+      "tags": [
+        "acf",
+        "addon",
+        "cyrillic",
+        "l10n",
+        "latin"
+      ],
+      "name": "ACF: Rus-To-Lat",
+      "version": "2.0.0",
+      "active_installs": 2000,
+      "last_updated": "2018-11-19T09:30:00Z",
+      "tested": "5.0.0",
+      "requires": "4.0",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "add-polylang-support-for-customizer",
+      "tags": [
+        "customizer",
+        "polylang",
+        "support",
+        "translate"
+      ],
+      "name": "Add Polylang support for Customizer",
+      "version": "1.4.5",
+      "active_installs": 2000,
+      "last_updated": "2023-01-04T16:37:00Z",
+      "tested": "6.1.16",
+      "requires": "4.7",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "advanced-post-excerpt",
+      "tags": [
+        "excerpts",
+        "tinyMCE",
+        "wysiwyg"
+      ],
+      "name": "Advanced Post Excerpt",
+      "version": "1.0.0",
+      "active_installs": 2000,
+      "last_updated": "2023-12-18T23:47:00Z",
+      "tested": "6.4.14",
+      "requires": "4.5",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "algori-image-video-slider",
+      "tags": [
+        "block",
+        "block-editor",
+        "gutenberg",
+        "image slider",
+        "slider"
+      ],
+      "name": "Algori Video and Image Slider",
+      "version": "1.0.6",
+      "active_installs": 2000,
+      "last_updated": "2022-07-11T13:08:00Z",
+      "tested": "6.0.18",
+      "requires": "5.0.0",
+      "requires_php": "5.6.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "automatically-paginate-posts",
+      "tags": [
+        "Nextpage",
+        "Paginate",
+        "quicktag"
+      ],
+      "name": "Automatically Paginate Posts",
+      "version": "0.3.1",
+      "active_installs": 2000,
+      "last_updated": "2022-07-01T04:35:00Z",
+      "tested": "6.0.18",
+      "requires": "3.4",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "better-recent-comments",
+      "tags": [
+        "avatar",
+        "comments",
+        "shortcode",
+        "widget",
+        "wpml"
+      ],
+      "name": "Better Recent Comments",
+      "version": "1.2.0",
+      "active_installs": 2000,
+      "last_updated": "2024-03-28T02:06:00Z",
+      "tested": "6.5.14",
+      "requires": "6.0",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "button-customizer-for-woocommerce",
+      "tags": [
+        "add to cart",
+        "button customizer",
+        "buttons",
+        "change add to cart",
+        "woocommerce buttons"
+      ],
+      "name": "Custom Buttons for WooCommerce – Add To Cart Button for Product Types",
+      "version": "1.2.3",
+      "active_installs": 2000,
+      "last_updated": "2024-04-05T10:07:00Z",
+      "tested": "6.5.14",
+      "requires": "5.5",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "cf7-submission-id",
+      "tags": [
+        "contact form 7",
+        "submission id",
+        "unique id"
+      ],
+      "name": "UniqueID for Contact Form 7",
+      "version": "2.4.0",
+      "active_installs": 2000,
+      "last_updated": "2021-04-01T13:22:00Z",
+      "tested": "5.7.0",
+      "requires": "4.0.0",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "csp-manager",
+      "tags": [
+        "content security policy",
+        "csp",
+        "security",
+        "Security Headers",
+        "xss"
+      ],
+      "name": "Content Security Policy Manager",
+      "version": "1.2.1",
+      "active_installs": 2000,
+      "last_updated": "2022-08-09T17:33:00Z",
+      "tested": "6.1.16",
+      "requires": "4.6",
+      "requires_php": "7.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "custom-classes",
+      "tags": [
+        "classes"
+      ],
+      "name": "Custom Classes",
+      "version": "1.0.0",
+      "active_installs": 2000,
+      "last_updated": "2017-11-28T21:07:00Z",
+      "tested": "4.8.34",
+      "requires": "4.8",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "custom-currency-for-woocommerce",
+      "tags": [
+        "currency",
+        "woocommerce"
+      ],
+      "name": "Custom Currency for WooCommerce",
+      "version": "7.2.0",
+      "active_installs": 2000,
+      "last_updated": "2023-01-04T14:08:00Z",
+      "tested": "6.1.0",
+      "requires": "5.0.0",
+      "requires_php": "7.0.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "dashboard-sticky-notes",
+      "tags": [
+        "dashboard",
+        "note",
+        "notes",
+        "sticky",
+        "sticky notes"
+      ],
+      "name": "Dashboard Sticky Notes",
+      "version": "1.1.2",
+      "active_installs": 2000,
+      "last_updated": "2020-07-11T00:35:00Z",
+      "tested": "5.4.25",
+      "requires": "3.0",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "duplicate-term",
+      "tags": [
+        "clone taxonomy",
+        "clone term",
+        "copy term",
+        "duplicate taxonomy",
+        "duplicate term"
+      ],
+      "name": "Duplicate Taxonomy Term",
+      "version": "1.0.2",
+      "active_installs": 2000,
+      "last_updated": "2023-04-09T12:22:00Z",
+      "tested": "6.2.15",
+      "requires": "3.1",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "e-namad-shamed-logo-manager",
+      "tags": [
+        "enamad",
+        "enamad logo",
+        "resaneh logo",
+        "shamed logo"
+      ],
+      "name": "E-namad & Shamed Logo Manager",
+      "version": "2.2",
+      "active_installs": 2000,
+      "last_updated": "2020-08-20T00:32:00Z",
+      "tested": "5.5.24",
+      "requires": "4.7",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "easy-swipebox",
+      "tags": [
+        "fancybox",
+        "gallery",
+        "image",
+        "swipebox",
+        "video"
+      ],
+      "name": "Easy SwipeBox",
+      "version": "1.1.2",
+      "active_installs": 2000,
+      "last_updated": "2021-02-26T17:23:00Z",
+      "tested": "5.6.23",
+      "requires": "3.0.1",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "embed-iframe",
+      "tags": [
+        "embed",
+        "iframe",
+        "page",
+        "post"
+      ],
+      "name": "Embed Iframe",
+      "version": "1.2",
+      "active_installs": 2000,
+      "last_updated": "2022-06-01T02:10:00Z",
+      "tested": "6.0.18",
+      "requires": "1.3",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "envothemes-demo-import",
+      "tags": [
+        "content",
+        "data",
+        "demo",
+        "import",
+        "WordPress"
+      ],
+      "name": "EnvoThemes Demo Import",
+      "version": "1.3.0",
+      "active_installs": 2000,
+      "last_updated": "2022-12-09T12:24:00Z",
+      "tested": "6.1.16",
+      "requires": "4.5",
+      "requires_php": "5.4.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "export-plugin-details",
+      "tags": [
+        "csv export",
+        "export plugin",
+        "Export plugin details",
+        "Export plugin information",
+        "Plugin Details"
+      ],
+      "name": "Export Plugin Details",
+      "version": "1.1.7",
+      "active_installs": 2000,
+      "last_updated": "2024-07-31T07:27:00Z",
+      "tested": "6.6.12",
+      "requires": "4.3",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "faq-schema-block-to-accordion",
+      "tags": [
+        "faq",
+        "Readability",
+        "seo",
+        "Yoast",
+        "Yoast SEO"
+      ],
+      "name": "Turn Yoast SEO FAQ Block to Accordion",
+      "version": "1.0.6",
+      "active_installs": 2000,
+      "last_updated": "2024-05-21T21:10:00Z",
+      "tested": "6.5.14",
+      "requires": "5.0",
+      "requires_php": "5.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "fluentform-block",
+      "tags": [
+        "contact form",
+        "custom form",
+        "form builder",
+        "forms",
+        "gutenberg form"
+      ],
+      "name": "Fluent Forms Block",
+      "version": "2.0.4",
+      "active_installs": 2000,
+      "last_updated": "2024-07-17T07:03:00Z",
+      "tested": "6.6.12",
+      "requires": "5.5",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "genesis-featured-widget-amplified",
+      "tags": [
+        "custom post type",
+        "featured post",
+        "genesis",
+        "genesiswp",
+        "studiopress"
+      ],
+      "name": "Genesis Featured Widget Amplified",
+      "version": "0.9.2",
+      "active_installs": 2000,
+      "last_updated": "2017-12-22T13:48:00Z",
+      "tested": "4.9.35",
+      "requires": "3.3",
+      "requires_php": "5.2",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "gf-hcaptcha",
+      "tags": [
+        "addon",
+        "forms",
+        "gravity",
+        "hcaptcha",
+        "recaptcha"
+      ],
+      "name": "G-Forms hCaptcha",
+      "version": "1.3.1",
+      "active_installs": 2000,
+      "last_updated": "2022-07-15T13:53:00Z",
+      "tested": "6.0.18",
+      "requires": "4.7",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "htaccess-ip-blocker",
+      "tags": [
+        "block",
+        "htaccess",
+        "ip",
+        "ip blocker",
+        "login"
+      ],
+      "name": "HTACCESS IP Blocker",
+      "version": "1.0",
+      "active_installs": 2000,
+      "last_updated": "2020-07-21T19:07:00Z",
+      "tested": "5.4.25",
+      "requires": "5.4",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "instant-page",
+      "tags": [
+        "flying pages",
+        "instant",
+        "performance"
+      ],
+      "name": "instant.page",
+      "version": "5.7.0",
+      "active_installs": 2000,
+      "last_updated": "2023-08-10T16:17:00Z",
+      "tested": "6.3.14",
+      "requires": "4.7",
+      "requires_php": "5.2.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "leadlovers-for-elementor",
+      "tags": [
+        "elementor",
+        "leadlovers",
+        "leadlovers integration",
+        "leadlovers widget",
+        "page builder"
+      ],
+      "name": "leadlovers for Elementor",
+      "version": "1.10.1",
+      "active_installs": 2000,
+      "last_updated": "2024-01-23T13:33:00Z",
+      "tested": "6.2.15",
+      "requires": "4.7",
+      "requires_php": "5.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "lemmony-companion",
+      "tags": [
+        "companion",
+        "icon",
+        "lemmony",
+        "shufflehound",
+        "SVG"
+      ],
+      "name": "Lemmony Companion",
+      "version": "1.2",
+      "active_installs": 2000,
+      "last_updated": "2023-07-07T17:03:00Z",
+      "tested": "6.2.15",
+      "requires": "6.0",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "modal-block",
+      "tags": [
+        "block",
+        "gutenberg",
+        "modal",
+        "popup",
+        "window"
+      ],
+      "name": "Modal Guten Block",
+      "version": "2.1",
+      "active_installs": 2000,
+      "last_updated": "2023-10-03T18:52:00Z",
+      "tested": "6.3.14",
+      "requires": "5.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "news-announcement-scroll",
+      "tags": [
+        "main news page scrolling",
+        "news website",
+        "vertical news scrolling widget",
+        "WordPress dynamic news",
+        "wordpress news plugin"
+      ],
+      "name": "News Announcement Scroll",
+      "version": "9.1.0",
+      "active_installs": 2000,
+      "last_updated": "2023-11-02T06:49:00Z",
+      "tested": "5.5.24",
+      "requires": "3.4",
+      "requires_php": "5.6.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "nextgen-download-gallery",
+      "tags": [
+        "download",
+        "gallery",
+        "nextgen"
+      ],
+      "name": "NextGEN Download Gallery",
+      "version": "1.6.2",
+      "active_installs": 2000,
+      "last_updated": "2024-03-17T04:31:00Z",
+      "tested": "6.5.14",
+      "requires": "4.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "ozh-admin-drop-down-menu",
+      "tags": [
+        "admin",
+        "dashboard",
+        "menu",
+        "menus",
+        "ozh"
+      ],
+      "name": "Ozh' Admin Drop Down Menu",
+      "version": "3.7.1",
+      "active_installs": 2000,
+      "last_updated": "2020-06-09T10:14:00Z",
+      "tested": "5.4.25",
+      "requires": "4.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "page-loading-effects",
+      "tags": [
+        "effects",
+        "lazy",
+        "pageloader",
+        "preloader",
+        "screen"
+      ],
+      "name": "Page Loading Effects",
+      "version": "3.0.0",
+      "active_installs": 2000,
+      "last_updated": "2023-01-19T15:14:00Z",
+      "tested": "5.4.25",
+      "requires": "4.7",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "parallax-image",
+      "tags": [
+        "Full Screen Parallax",
+        "parallax",
+        "Parallax Image",
+        "Parallax Window"
+      ],
+      "name": "Parallax Image",
+      "version": "1.9.1",
+      "active_installs": 2000,
+      "last_updated": "2024-11-15T14:59:00Z",
+      "tested": "6.7.12",
+      "requires": "4.5",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "pardot",
+      "tags": [
+        "account engagement",
+        "dynamic content",
+        "forms",
+        "marketing automation",
+        "salesforce"
+      ],
+      "name": "Account Engagement",
+      "version": "2.1.2",
+      "active_installs": 2000,
+      "last_updated": "2024-06-03T14:50:00Z",
+      "tested": "6.4.14",
+      "requires": "5.5",
+      "requires_php": "7.2.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "photography-portfolio",
+      "tags": [
+        "gallery",
+        "grid",
+        "masonry",
+        "photography",
+        "portfolio"
+      ],
+      "name": "Easy Photography Portfolio",
+      "version": "1.5.1",
+      "active_installs": 2000,
+      "last_updated": "2021-02-27T14:01:00Z",
+      "tested": "5.6.23",
+      "requires": "4.7.0",
+      "requires_php": "5.4.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "post-carousel-for-dv-builder",
+      "tags": [
+        "carousel",
+        "divi carousel",
+        "divi plugins",
+        "divi theme",
+        "post carousel for divi"
+      ],
+      "name": "Post Carousel for DV Builder",
+      "version": "1.3",
+      "active_installs": 2000,
+      "last_updated": "2021-03-10T12:08:00Z",
+      "tested": "5.7.21",
+      "requires": "4.5",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "print-bangla-news",
+      "tags": [
+        "bangla",
+        "newspaper",
+        "newsportal",
+        "print"
+      ],
+      "name": "Print Bangla News",
+      "version": "2.0.1",
+      "active_installs": 2000,
+      "last_updated": "2023-01-18T15:04:00Z",
+      "tested": "6.0.18",
+      "requires": "6.0.2",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "rss-featured-image",
+      "tags": [
+        "featured",
+        "image",
+        "mailchimp",
+        "rss",
+        "thumbnail"
+      ],
+      "name": "RSS Featured Image",
+      "version": "1.0.6",
+      "active_installs": 2000,
+      "last_updated": "2023-10-12T00:02:00Z",
+      "tested": "6.3.14",
+      "requires": "5.0",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "salesforce-wordpress-to-lead",
+      "tags": [
+        "case to lead",
+        "contact form",
+        "ContactForm",
+        "crm",
+        "Web to lead"
+      ],
+      "name": "Brilliant Web-to-Lead for Salesforce",
+      "version": "2.7.3.9",
+      "active_installs": 2000,
+      "last_updated": "2022-02-24T19:37:00Z",
+      "tested": "5.9.20",
+      "requires": "5.0",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "select-multiselect-field-contact-form-7",
+      "tags": [
+        "dropdown",
+        "multi-dropdown",
+        "multi-select",
+        "select",
+        "select-box"
+      ],
+      "name": "Select and Multi-Select Field for Contact Form 7",
+      "version": "1.1",
+      "active_installs": 2000,
+      "last_updated": "2019-12-07T06:23:00Z",
+      "tested": "5.3.27",
+      "requires": "4.9",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "serial-number-for-contact-form-7",
+      "tags": [
+        "contact form 7",
+        "contact form 7 addon",
+        "serial number"
+      ],
+      "name": "Serial Number for Contact Form 7",
+      "version": "2.4.0",
+      "active_installs": 2000,
+      "last_updated": "2023-06-20T03:47:00Z",
+      "tested": "6.2.15",
+      "requires": "6.0",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "spotify-play-button-for-wordpress",
+      "tags": [
+        "embed Spotify",
+        "Spotify",
+        "spotify play button",
+        "spotify play button for wordpress"
+      ],
+      "name": "Sp*tify Play Button for WordPress",
+      "version": "2.13",
+      "active_installs": 2000,
+      "last_updated": "2024-11-18T14:27:00Z",
+      "tested": "6.7.12",
+      "requires": "5.0",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "srbtranslatin",
+      "tags": [
+        "latinisation",
+        "multilanguage",
+        "TranslatePress",
+        "transliteration",
+        "wpml"
+      ],
+      "name": "SrbTransLatin – Serbian Latinisation",
+      "version": "3.2.0",
+      "active_installs": 2000,
+      "last_updated": "2023-12-13T10:09:00Z",
+      "tested": "6.3.14",
+      "requires": "6.0",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "stylizedx",
+      "tags": [
+        "block",
+        "blocks",
+        "editor",
+        "gutenberg",
+        "gutenberg blocks"
+      ],
+      "name": "StylizedX – Variation Switcher Dark Mode for Full Site Editing (FSE) Themes",
+      "version": "1.0.0",
+      "active_installs": 2000,
+      "last_updated": "2024-01-23T06:34:00Z",
+      "tested": "6.4.14",
+      "requires": "5.5",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "supreme-maps",
+      "tags": [
+        "divi",
+        "divi builder",
+        "divi leaflet",
+        "divi map",
+        "divi theme"
+      ],
+      "name": "Supreme Maps",
+      "version": "1.1.1",
+      "active_installs": 2000,
+      "last_updated": "2024-11-13T01:21:00Z",
+      "tested": "6.7.12",
+      "requires": "5.6",
+      "requires_php": "7.0",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "the-social-links",
+      "tags": [
+        "social",
+        "social bookmarks",
+        "social links",
+        "social networking"
+      ],
+      "name": "The Social Links",
+      "version": "2.0.5",
+      "active_installs": 2000,
+      "last_updated": "2021-11-09T21:20:00Z",
+      "tested": "5.8.19",
+      "requires": "4.2",
+      "requires_php": "5.6",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "webflow-pages",
+      "tags": [
+        "visual builder"
+      ],
+      "name": "Webflow Pages",
+      "version": "1.1.1",
+      "active_installs": 2000,
+      "last_updated": "2024-11-13T09:22:00Z",
+      "tested": "6.6.12",
+      "requires": "6.0.0",
+      "requires_php": "7.3",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "woo-products-widgets-for-elementor",
+      "tags": [
+        "elementor",
+        "elementor woocommerce addons",
+        "Product Grid",
+        "Products carousel",
+        "products list"
+      ],
+      "name": "Widgets for WooCommerce Products on Elementor",
+      "version": "2.0.4",
+      "active_installs": 2000,
+      "last_updated": "2024-10-14T12:14:00Z",
+      "tested": "6.6.12",
+      "requires": "4.7",
+      "requires_php": "7.4",
+      "directory_status": "open",
+      "closed_date": null,
+      "closure_reason": null
+    },
+    {
+      "slug": "wp-and-divi-icons",
+      "tags": [
+        "divi",
+        "extra",
+        "icon",
+        "icons",
+        "SVG"
+      ],
+      "name": "WP and Divi Icons",
+      "version": "2.0.9",
+      "active_installs": 2000,
+      "last_updated": "2024-08-15T22:59:00Z",
+      "tested": "6.6.12",
+      "requires": "2.2",
+      "requires_php": "5.0",
       "directory_status": "open",
       "closed_date": null,
       "closure_reason": null

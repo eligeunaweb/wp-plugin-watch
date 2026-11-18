@@ -113,10 +113,13 @@ class MonitorTests(unittest.TestCase):
     def test_publish_all_formats_unicode_and_idempotence(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
-            for name in ['README.md','README.en.md']:
+            for name in ['README.md','README.es.md']:
                 (root/name).write_text('Intro\n<!-- WATCH:START -->old<!-- WATCH:END -->\nEnd', encoding='utf-8')
             result = self.snapshot();result['plugins'][0]['name'] = 'Español & 中文'
             watch.publish(result, root)
+            self.assertIn('Last run:', (root/'README.md').read_text(encoding='utf-8'))
+            self.assertIn('Última consulta:', (root/'README.es.md').read_text(encoding='utf-8'))
+            self.assertFalse((root/'README.en.md').exists())
             first = (root/'README.md').read_bytes()
             watch.publish(result, root)
             self.assertEqual(first, (root/'README.md').read_bytes())

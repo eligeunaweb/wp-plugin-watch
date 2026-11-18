@@ -41,7 +41,7 @@ def parse_date(value):
 
 def api_url(action, **args):
     params = {'action': action, **{f'request[{k}]': v for k, v in args.items()}}
-    params.update({f'request[fields][{k}]': '0' for k in ('sections', 'description', 'short_description', 'banners', 'icons', 'screenshots', 'reviews', 'contributors', 'ratings', 'tags')})
+    params.update({f'request[fields][{k}]': '0' for k in ('sections', 'description', 'short_description', 'banners', 'icons', 'screenshots', 'reviews', 'contributors', 'ratings')})
     params['request[fields][active_installs]'] = '1'
     return API + '?' + urllib.parse.urlencode(params)
 
@@ -100,14 +100,17 @@ def normalize(slug, raw):
         if date:
             parse_date(date)
         return {'name': short_text(raw.get('name')), 'directory_status': 'closed', 'closed_date': date,
-                'closure_reason': short_text(raw.get('reason_text') or raw.get('reason'))}
+                'closure_reason': short_text(raw.get('reason_text') or raw.get('reason') or None)}
     if 'error' in raw:
         raise ValueError('unrecognized API error')
     installs = raw.get('active_installs')
     if type(installs) is not int or installs < 0:
         raise ValueError('invalid installation count')
     updated = stamp(parse_date(raw.get('last_updated')))
-    return {'name': short_text(raw.get('name')), 'version': short_text(raw.get('version')),
+    tags = raw.get('tags', {})
+    if not isinstance(tags, dict) or len(tags) > 100 or any(not isinstance(t, str) for t in tags.values()):
+        raise ValueError('invalid tags')
+    return {'tags': [short_text(t) for t in tags.values()], 'name': short_text(raw.get('name')), 'version': short_text(raw.get('version')),
             'active_installs': installs, 'last_updated': updated,
             'tested': short_text(raw.get('tested')), 'requires': short_text(raw.get('requires')),
             'requires_php': short_text(raw.get('requires_php')), 'directory_status': 'open',
@@ -188,11 +191,12 @@ def table(snapshot, lang):
 
 def csv_export(snapshot):
     out = io.StringIO(newline='')
-    fields = ['slug', *FIELDS, 'maintenance', 'check_status', 'checked_at', 'verified_at', 'metadata_observed_at', 'source']
+    fields = ['slug', 'categories', 'category_method', *FIELDS, 'maintenance', 'check_status', 'checked_at', 'verified_at', 'metadata_observed_at', 'source']
     writer = csv.DictWriter(out, fieldnames=fields, lineterminator='\n')
     writer.writeheader()
     for record in snapshot['plugins']:
         row = {k: record.get(k, '') for k in fields}
+        row['categories'] = ';'.join(record.get('categories', []))
         for k, v in row.items():
             if isinstance(v, str) and v.lstrip().startswith(('=', '+', '-', '@')):
                 row[k] = "'" + v
@@ -208,21 +212,24 @@ def atomic_write(path, text):
 
 
 def publish(snapshot, root=ROOT):
+    from catalog import enrich, outputs
+    snapshot = enrich(snapshot)
     generated = {root / 'data/plugins.json': json.dumps(snapshot, ensure_ascii=False, indent=2) + '\n',
                  root / 'data/plugins.csv': csv_export(snapshot)}
-    for lang, filename in [('es', 'README.md'), ('en', 'README.en.md')]:
+    for lang, filename in [('en', 'README.md'), ('es', 'README.es.md')]:
         path = root / filename
         source = path.read_text(encoding='utf-8')
         start, end = '<!-- WATCH:START -->', '<!-- WATCH:END -->'
         if source.count(start) != 1 or source.count(end) != 1 or source.index(start) > source.index(end):
             raise ValueError('README markers missing or ambiguous')
         generated[path] = source.split(start)[0] + start + '\n\n' + table(snapshot, lang) + '\n\n' + end + source.split(end)[1]
+    generated.update({root / name: content for name, content in outputs(snapshot).items()})
     # All render/validation work completes before any destination is changed.
     for path, content in generated.items():
         atomic_write(path, content)
 
 
-def discover(pages, request=fetch, now=None):
+def discover(pages, request=fetch, now=None, min_installs=10000):
     now = now or utc_now()
     found = {}
     for page in range(1, pages + 1):
@@ -235,35 +242,51 @@ def discover(pages, request=fetch, now=None):
                 row = normalize(slug, raw)
             except (ValueError, TypeError):
                 continue
-            if row.get('active_installs', 0) >= 10000 and classify(row, now) == 'no_updates_2y':
+            if row.get('active_installs', 0) >= min_installs and classify(row, now) == 'no_updates_2y':
                 found[slug] = {'slug': slug, **row}
         if page < pages:
             time.sleep(1)
-    return {'discovered_at': stamp(now), 'pages_queried': pages, 'method': 'Popular endpoint; 250 per page; >=10000 published installs; >=730 days without updates. Sample only; closed plugins may not appear.',
+    return {'discovered_at': stamp(now), 'pages_queried': pages, 'min_installs': min_installs, 'method': f'Popular endpoint; 250 per page; >={min_installs} published installs; >=730 days without updates. Sample only; closed plugins may not appear.',
             'candidates': sorted(found.values(), key=lambda r: (-r['active_installs'], r['slug']))}
+
+
+def expanded_slugs(existing, candidates, limit=500):
+    """Keep tracked records and add eligible candidates in their ranked order."""
+    return list(dict.fromkeys(existing + [r['slug'] for r in candidates]))[:limit]
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['refresh', 'discover'])
-    parser.add_argument('--pages', type=int, default=8)
+    parser.add_argument('command', choices=['refresh', 'discover', 'expand', 'render'])
+    parser.add_argument('--pages', type=int, default=20)
+    parser.add_argument('--min-installs', type=int, default=1000)
     args = parser.parse_args()
-    if args.command == 'discover':
+    if args.command in ('discover', 'expand'):
+        if args.min_installs < 1:
+            parser.error('min-installs must be positive')
         if not 1 <= args.pages <= 20:
             parser.error('pages must be 1..20')
-        result = discover(args.pages)
+        result = discover(args.pages, min_installs=args.min_installs)
         atomic_write(ROOT / 'data/candidates.json', json.dumps(result, ensure_ascii=False, indent=2) + '\n')
-        print(f"Found {len(result['candidates'])} candidates. Watchlist unchanged.")
+        if args.command == 'expand':
+            path = ROOT / 'watchlist.json'
+            config = json.loads(path.read_text(encoding='utf-8'))
+            slugs = load_watchlist(path)
+            config['plugins'] = expanded_slugs(slugs, result['candidates'])
+            atomic_write(path, json.dumps(config, indent=2) + '\n')
+        print(f"Found {len(result['candidates'])} candidates.")
         return 0
     slugs = load_watchlist(ROOT / 'watchlist.json')
     previous_path = ROOT / 'data/plugins.json'
     previous = json.loads(previous_path.read_text(encoding='utf-8')) if previous_path.exists() else None
     if previous is not None and previous.get('schema_version') != 1:
         raise ValueError('unsupported saved schema')
-    result = refresh(slugs, previous)
+    if args.command == 'render' and previous is None:
+        parser.error('render requires an existing data/plugins.json snapshot')
+    result = previous if args.command == 'render' else refresh(slugs, previous)
     publish(result)
-    print(f"Checked {len(slugs)} plugins; {result['errors']} errors; {len(result['changes'])} metadata changes.")
-    return 1 if result['errors'] else 0
+    print(f"Snapshot: {len(result['plugins'])} plugins; {result['errors']} errors; {len(result['changes'])} metadata changes.")
+    return 1 if result['errors'] and args.command == 'refresh' else 0
 
 
 if __name__ == '__main__':

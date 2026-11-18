@@ -100,7 +100,7 @@ def normalize(slug, raw):
         if date:
             parse_date(date)
         return {'name': short_text(raw.get('name')), 'directory_status': 'closed', 'closed_date': date,
-                'closure_reason': short_text(raw.get('reason_text') or raw.get('reason'))}
+                'closure_reason': short_text(raw.get('reason_text') or raw.get('reason') or None)}
     if 'error' in raw:
         raise ValueError('unrecognized API error')
     installs = raw.get('active_installs')
@@ -286,7 +286,7 @@ def main():
     result = previous if args.command == 'render' else refresh(slugs, previous)
     publish(result)
     print(f"Snapshot: {len(result['plugins'])} plugins; {result['errors']} errors; {len(result['changes'])} metadata changes.")
-    return 1 if result['errors'] else 0
+    return 1 if result['errors'] and args.command == 'refresh' else 0
 
 
 if __name__ == '__main__':

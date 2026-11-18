@@ -48,6 +48,11 @@ class CatalogueTests(unittest.TestCase):
     def test_expansion_preserves_existing_deduplicates_and_caps(self):
         self.assertEqual(watch.expanded_slugs(['retained','old'], [{'slug':'old'},{'slug':'new'},{'slug':'extra'}], 3), ['retained','old','new'])
 
+    def test_temporary_closure_with_unpublished_reason(self):
+        record = watch.normalize('fixture', {'slug':'fixture','name':'Fixture','closed':True,'error':'closed','closed_date':'2026-11-18','reason':False,'reason_text':False})
+        self.assertEqual(record['directory_status'], 'closed')
+        self.assertIsNone(record['closure_reason'])
+
     def test_categories_in_csv(self):
         result=catalog.enrich(watch.refresh(['woocommerce-form'],request=lambda _:raw('woocommerce-form'),now=NOW,delay=0))
         self.assertIn('commerce;forms',watch.csv_export(result))

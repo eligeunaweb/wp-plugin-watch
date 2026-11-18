@@ -1,0 +1,50 @@
+name: Daily WordPress metadata
+on:
+  push:
+    paths:
+      - '.github/workflows/daily.yml'
+      - 'watchlist.json'
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: daily-metadata
+  cancel-in-progress: false
+jobs:
+  update:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Test updater before publication
+        run: python -m unittest discover -s tests -v
+      - name: Refresh live metadata
+        id: refresh
+        continue-on-error: true
+        run: python watch.py refresh
+      - name: Commit verified results including explicit source errors
+        if: "!cancelled() && (steps.refresh.outcome == 'success' || steps.refresh.outcome == 'failure')"
+        shell: bash
+        run: |
+          git add -- README.md README.en.md data/plugins.json data/plugins.csv
+          if git diff --cached --quiet; then
+            echo 'No generated changes'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'data: refresh WordPress maintenance observations'
+          git push
+      - name: Report source failures
+        if: "!cancelled() && steps.refresh.outcome == 'failure'"
+        run: |
+          echo 'Source errors recorded; previous valid metadata was retained. Inspect data/plugins.json.'
+          exit 1

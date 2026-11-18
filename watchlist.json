@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "selection_date": "2026-11-18T12:25:10Z",
+  "plugins": [
+    "health-check",
+    "yet-another-related-posts-plugin",
+    "disable-json-api",
+    "widget-css-classes",
+    "facebook-messenger-customer-chat",
+    "heartbeat-control",
+    "q2w3-fixed-widget",
+    "add-from-server",
+    "enhanced-media-library",
+    "woocommerce-extra-checkout-fields-for-brazil",
+    "sakura-rs-wp-ssl",
+    "disable-google-fonts",
+    "export-media-library",
+    "scripts-n-styles",
+    "upload-max-file-size",
+    "block-options",
+    "change-login-logo",
+    "hide-admin-notices",
+    "jetsticky-for-elementor",
+    "material-design-icons-for-elementor"
+  ]
+}

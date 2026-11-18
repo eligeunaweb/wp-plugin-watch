@@ -4,6 +4,9 @@ on:
     paths:
       - '.github/workflows/daily.yml'
       - 'watchlist.json'
+      - 'watch.py'
+      - 'catalog.py'
+      - 'web/**'
   schedule:
     - cron: '23 6 * * *'
   workflow_dispatch:
@@ -16,7 +19,7 @@ jobs:
   update:
     if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     permissions:
       contents: write
     steps:
@@ -26,6 +29,13 @@ jobs:
           python-version: '3.12'
       - name: Test updater before publication
         run: python -m unittest discover -s tests -v
+      - name: Discover additional candidates weekly
+        if: github.event_name == 'schedule'
+        shell: bash
+        run: |
+          if [ "$(date -u +%u)" = "7" ]; then
+            python watch.py expand --pages 20 --min-installs 1000
+          fi
       - name: Refresh live metadata
         id: refresh
         continue-on-error: true
@@ -34,7 +44,7 @@ jobs:
         if: "!cancelled() && (steps.refresh.outcome == 'success' || steps.refresh.outcome == 'failure')"
         shell: bash
         run: |
-          git add -- README.md README.en.md data/plugins.json data/plugins.csv
+          git add -- README.md README.en.md CATEGORIES.md CATEGORIES.en.md docs/index.html watchlist.json data/candidates.json data/plugins.json data/plugins.csv
           if git diff --cached --quiet; then
             echo 'No generated changes'
             exit 0

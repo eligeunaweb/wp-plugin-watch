@@ -30,3 +30,15 @@ Publish on the default branch, enable Actions, then manually run **Daily WordPre
 The updater uses only the repository GITHUB_TOKEN with job-scoped write permission. Branch protection can prevent direct pushes; use a reviewed PR workflow instead of bypassing policy. Source errors preserve previous verified metadata, are committed visibly and make the run fail. Tests run inside the updater because GITHUB_TOKEN pushes generally do not trigger separate CI. Disable the daily workflow in Actions to pause it.
 
 Sources: [schedule](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule), [workflow disabling](https://docs.github.com/en/actions/how-tos/manage-workflow-runs/disable-and-enable-workflows).
+
+## Explorer / Explorador
+
+- `python watch.py expand --pages 20 --min-installs 1000`: discover and add candidates (maximum 500 total; retain tracked entries).
+- `python watch.py refresh`: fetch tracked metadata; generate JSON/CSV, both READMEs, category lists and `docs/index.html` together.
+- `python watch.py render`: regenerate outputs from saved metadata without network requests. Does not advance verification dates.
+- Open `docs/index.html` directly in a browser, even offline. On GitHub, download the raw HTML first; GitHub file previews cannot run JavaScript. The category Markdown lists work directly on GitHub.
+- Optional GitHub Pages: Settings → Pages → Deploy from a branch → main → /docs. This is a separate hosting setting, not automatically enabled by this change. The HTML works locally without it. For automatic Pages refresh from bot commits, use an explicit Pages Actions deployment; GitHub token commits do not generally trigger another workflow/build. Do not assume branch publishing refreshes daily.
+
+Abre `docs/index.html` en el navegador, incluso sin conexión. En GitHub descarga primero el archivo HTML: la vista de código no ejecuta filtros. Las listas `CATEGORIES.md` sí se navegan dentro de GitHub. GitHub Pages es opcional y requiere configurar el alojamiento; no se activa con estos archivos. Para actualizaciones automáticas en Pages desde el bot hace falta un despliegue explícito en Actions.
+
+Browser checks (development only): install `pip install -r requirements-test.txt`, then `python -m playwright install chromium`, and run `python tests/browser_check.py`. Runtime/updater remain standard-library-only.

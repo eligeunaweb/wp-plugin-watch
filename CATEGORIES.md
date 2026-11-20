@@ -19,7 +19,7 @@ Categorías automáticas orientativas / Heuristic categories, not reviewed.
 <a id="commerce"></a>
 ## Comercio electrónico
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -44,7 +44,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="forms"></a>
 ## Formularios
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -70,7 +70,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="seo"></a>
 ## SEO y analítica
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -99,7 +99,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="security"></a>
 ## Seguridad y acceso
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -128,14 +128,14 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="backup"></a>
 ## Copias y migración
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
 | [Add From Server](https://wordpress.org/plugins/add-from-server/) | 60000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
 | [Export Media Library](https://wordpress.org/plugins/export-media-library/) | 30000+ | 2023-04-05T15:30:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Cyclone Demo Importer](https://wordpress.org/plugins/cyclone-demo-importer/) | 10000+ | 2024-06-18T09:59:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
-| [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 8000+ | 2024-08-01T01:44:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
+| [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 7000+ | 2024-08-01T01:44:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Duplicate Pages, Posts and CPT](https://wordpress.org/plugins/duplicate-pages-posts/) | 5000+ | 2024-06-13T15:43:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Sparkle Demo Importer](https://wordpress.org/plugins/sparkle-demo-importer/) | 5000+ | 2024-06-20T05:11:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Duplicate Taxonomy Term](https://wordpress.org/plugins/duplicate-term/) | 2000+ | 2023-04-09T12:22:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
@@ -151,7 +151,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="performance"></a>
 ## Rendimiento
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -159,9 +159,9 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Link Juice Optimizer](https://wordpress.org/plugins/link-juice-optimizer/) | 5000+ | 2024-01-16T18:16:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [PageSpeed Ninja – Cache, Minify, Defer CSS JavaScript, Critical CSS, Optimize Images, Convert WebP](https://wordpress.org/plugins/psn-pagespeed-ninja/) | 5000+ | 2024-09-26T12:19:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
-| [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2021-08-20T15:47:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
+| [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2026-11-19T22:11:00Z | 7.1.5 | Actualizado hace <730 días | OK |
 
 ¹ Cifras publicadas por WordPress.org, no conteos exactos. Hist.: último valor conocido, no actual.
 ² Declaración del autor; no hemos probado esa compatibilidad.
@@ -172,7 +172,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="media"></a>
 ## Multimedia
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -216,7 +216,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="design"></a>
 ## Diseño y edición
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -241,9 +241,9 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) | 9000+ | 2021-04-07T13:35:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
 | [AH Display Widgets](https://wordpress.org/plugins/ah-display-widgets/) | 8000+ | 2018-10-29T18:53:00Z | 5.0.32 | Sin actualizar ≥730 días | OK |
 | [Sinatra Core](https://wordpress.org/plugins/sinatra-core/) | 8000+ | 2023-08-30T18:02:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
-| [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 8000+ | 2024-08-01T01:44:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Algori PDF Viewer](https://wordpress.org/plugins/algori-pdf-viewer/) | 7000+ | 2024-11-07T12:50:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Classic Menu Block](https://wordpress.org/plugins/classic-menu-block/) | 7000+ | 2024-04-24T18:39:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
+| [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 7000+ | 2024-08-01T01:44:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Gutenberg Blocks Library &amp; Toolkit – Editor Plus](https://wordpress.org/plugins/editorplus/) | 6000+ | 2023-11-09T08:21:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Simple Iframe](https://wordpress.org/plugins/simple-iframe/) | 6000+ | 2024-06-09T19:35:00Z | 6.6.0 | Sin actualizar ≥730 días | OK |
 | [ThemeZee Toolkit](https://wordpress.org/plugins/themezee-toolkit/) | 6000+ | 2021-06-06T17:13:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
@@ -290,19 +290,19 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="communication"></a>
 ## Comunicación
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
 | [Facebook Chat Plugin – Live Chat Plugin for WordPress](https://wordpress.org/plugins/facebook-messenger-customer-chat/) | 70000+ | 2022-07-05T23:01:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
-| [WP Test Email](https://wordpress.org/plugins/wp-test-email/) | 20000+ | 2024-07-31T06:18:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Login by Auth0](https://wordpress.org/plugins/auth0/) | 10000+ | 2024-07-12T16:57:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Disable Theme and Plugin Auto-Update Emails](https://wordpress.org/plugins/disable-theme-and-plugin-auto-update-emails/) | 10000+ | 2023-10-24T21:49:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Professional Social Sharing Buttons, Icons &amp; Related Posts – Shareaholic](https://wordpress.org/plugins/shareaholic/) | 10000+ | 2024-11-05T19:08:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
+| [WP Test Email](https://wordpress.org/plugins/wp-test-email/) | 10000+ | 2024-07-31T06:18:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [WP Change Default From Email](https://wordpress.org/plugins/wp-change-default-from-email/) | 9000+ | 2024-06-23T09:13:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [WP Mailto Links – Protect Email Addresses](https://wordpress.org/plugins/wp-mailto-links/) | 7000+ | 2023-09-22T16:55:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Booster Extension](https://wordpress.org/plugins/booster-extension/) | 6000+ | 2024-04-26T04:40:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
-| [Seed Social](https://wordpress.org/plugins/seed-social/) | 6000+ | 2024-08-06T04:01:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
+| [Seed Social](https://wordpress.org/plugins/seed-social/) | 6000+ | 2026-11-20T13:46:00Z | 7.1.5 | Actualizado hace <730 días | OK |
 | [chat-me-now](https://wordpress.org/plugins/chat-me-now/) | 4000+ | 2021-05-22T11:44:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
 | [Disable New User Notification Emails](https://wordpress.org/plugins/disable-new-user-notifications/) | 4000+ | 2021-07-19T04:46:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [oEmbed Plus](https://wordpress.org/plugins/oembed-plus/) | 3000+ | 2021-07-15T10:24:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
@@ -320,7 +320,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="administration"></a>
 ## Administración
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -347,7 +347,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="other"></a>
 ## Sin clasificar
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|

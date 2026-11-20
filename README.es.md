@@ -13,7 +13,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 
 <!-- WATCH:START -->
 
-Última consulta: **2026-11-19T15:54:43Z** · Errores: **0**
+Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -39,7 +39,6 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Material Design Icons for Page Builders](https://wordpress.org/plugins/material-design-icons-for-elementor/) | 20000+ | 2024-03-20T12:40:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Self-Hosted Google Fonts](https://wordpress.org/plugins/selfhost-google-fonts/) | 20000+ | 2018-06-15T05:34:00Z | 4.9.36 | Sin actualizar ≥730 días | OK |
 | [Transients Manager](https://wordpress.org/plugins/transients-manager/) | 20000+ | 2024-10-18T17:06:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
-| [WP Test Email](https://wordpress.org/plugins/wp-test-email/) | 20000+ | 2024-07-31T06:18:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Accordion Blocks](https://wordpress.org/plugins/accordion-blocks/) | 10000+ | 2022-02-07T19:33:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [Login by Auth0](https://wordpress.org/plugins/auth0/) | 10000+ | 2024-07-12T16:57:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Blog Designer](https://wordpress.org/plugins/blog-designer/) | 10000+ | 2024-08-12T13:17:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
@@ -61,6 +60,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [WP Font Awesome](https://wordpress.org/plugins/wp-font-awesome/) | 10000+ | 2024-07-09T06:56:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [WP Hardening (discontinued)](https://wordpress.org/plugins/wp-security-hardening/) | 10000+ | 2024-09-13T10:33:00Z | 6.0.19 | Sin actualizar ≥730 días | OK |
 | [WP Tab Widget](https://wordpress.org/plugins/wp-tab-widget/) | 10000+ | 2022-01-26T08:12:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
+| [WP Test Email](https://wordpress.org/plugins/wp-test-email/) | 10000+ | 2024-07-31T06:18:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [ACF Theme Code for Advanced Custom Fields](https://wordpress.org/plugins/acf-theme-code/) | 9000+ | 2023-11-28T01:28:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Qty Increment Buttons for WooCommerce](https://wordpress.org/plugins/qty-increment-buttons-for-woocommerce/) | 9000+ | 2020-08-21T12:24:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
 | [Toggle wpautop](https://wordpress.org/plugins/toggle-wpautop/) | 9000+ | 2021-04-07T13:35:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
@@ -75,7 +75,6 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Sinatra Core](https://wordpress.org/plugins/sinatra-core/) | 8000+ | 2023-08-30T18:02:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Sold Out Badge for WooCommerce](https://wordpress.org/plugins/sold-out-badge-for-woocommerce/) | 8000+ | 2023-05-30T19:26:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Taxonomy Images](https://wordpress.org/plugins/taxonomy-images/) | 8000+ | 2024-02-15T18:12:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
-| [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 8000+ | 2024-08-01T01:44:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [WP Custom Cursors &#124; WordPress Cursor Plugin](https://wordpress.org/plugins/wp-custom-cursors/) | 8000+ | 2024-03-03T07:00:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Ajax Cart AutoUpdate for WooCommerce](https://wordpress.org/plugins/ajax-cart-autoupdate-for-woocommerce/) | 7000+ | 2021-03-30T21:37:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
 | [Algori PDF Viewer](https://wordpress.org/plugins/algori-pdf-viewer/) | 7000+ | 2024-11-07T12:50:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
@@ -87,6 +86,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Remove &amp; Disable XML-RPC Pingback](https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/) | 7000+ | 2023-07-24T23:03:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [ReOrder Posts within Categories](https://wordpress.org/plugins/reorder-post-within-categories/) | 7000+ | 2023-12-08T08:12:00Z | 6.3.0 | Sin actualizar ≥730 días | OK |
 | [WP REST API – OAuth 1.0a Server](https://wordpress.org/plugins/rest-api-oauth1/) | 7000+ | 2024-08-05T10:18:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
+| [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 7000+ | 2024-08-01T01:44:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Who Stole the Text Justify Button ?!](https://wordpress.org/plugins/who-stole-the-text-justify-button/) | 7000+ | 2019-10-23T07:46:00Z | 5.3.28 | Sin actualizar ≥730 días | OK |
 | [WP Mailto Links – Protect Email Addresses](https://wordpress.org/plugins/wp-mailto-links/) | 7000+ | 2023-09-22T16:55:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Booster Extension](https://wordpress.org/plugins/booster-extension/) | 6000+ | 2024-04-26T04:40:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
@@ -94,7 +94,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Gutenberg Blocks Library &amp; Toolkit – Editor Plus](https://wordpress.org/plugins/editorplus/) | 6000+ | 2023-11-09T08:21:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [FAQ Schema For Pages And Posts](https://wordpress.org/plugins/faq-schema-for-pages-and-posts/) | 6000+ | 2022-02-21T20:46:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [REST API Meta Support](https://wordpress.org/plugins/rest-api-meta-support/) | 6000+ | 2020-05-29T18:33:00Z | 5.4.26 | Sin actualizar ≥730 días | OK |
-| [Seed Social](https://wordpress.org/plugins/seed-social/) | 6000+ | 2024-08-06T04:01:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
+| [Seed Social](https://wordpress.org/plugins/seed-social/) | 6000+ | 2026-11-20T13:46:00Z | 7.1.5 | Actualizado hace <730 días | OK |
 | [Simple Iframe](https://wordpress.org/plugins/simple-iframe/) | 6000+ | 2024-06-09T19:35:00Z | 6.6.0 | Sin actualizar ≥730 días | OK |
 | [ThemeZee Toolkit](https://wordpress.org/plugins/themezee-toolkit/) | 6000+ | 2021-06-06T17:13:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [Ultimate 410 Gone Status Code](https://wordpress.org/plugins/ultimate-410/) | 6000+ | 2024-08-15T07:46:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
@@ -147,6 +147,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Featured Galleries](https://wordpress.org/plugins/featured-galleries/) | 3000+ | 2018-08-02T22:31:00Z | 4.9.36 | Sin actualizar ≥730 días | OK |
 | [Genesis Dambuster](https://wordpress.org/plugins/genesis-dambuster/) | 3000+ | 2019-03-28T11:27:00Z | 5.1.29 | Sin actualizar ≥730 días | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
 | [oEmbed Plus](https://wordpress.org/plugins/oembed-plus/) | 3000+ | 2021-07-15T10:24:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
 | [Save with keyboard](https://wordpress.org/plugins/save-with-keyboard/) | 3000+ | 2018-11-03T08:57:00Z | 5.0.32 | Sin actualizar ≥730 días | OK |
@@ -154,7 +155,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Matterport Shortcode](https://wordpress.org/plugins/shortcode-gallery-for-matterport-showcase/) | 3000+ | 2024-06-06T18:46:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Popular Brand Icons – Simple Icons](https://wordpress.org/plugins/simple-icons/) | 3000+ | 2023-11-20T20:08:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Simple Keyword to Link](https://wordpress.org/plugins/simple-keyword-to-link/) | 3000+ | 2024-08-21T13:07:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
-| [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2021-08-20T15:47:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
+| [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2026-11-19T22:11:00Z | 7.1.5 | Actualizado hace <730 días | OK |
 | [Subtitles](https://wordpress.org/plugins/subtitles/) | 3000+ | 2017-08-29T03:15:00Z | 4.8.35 | Sin actualizar ≥730 días | OK |
 | [Ultimate Member – Online Users](https://wordpress.org/plugins/um-online/) | 3000+ | 2024-11-15T16:47:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) | 3000+ | 2022-05-04T18:24:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
@@ -182,7 +183,6 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Genesis Featured Widget Amplified](https://wordpress.org/plugins/genesis-featured-widget-amplified/) | 2000+ | 2017-12-22T13:48:00Z | 4.9.36 | Sin actualizar ≥730 días | OK |
 | [G-Forms hCaptcha](https://wordpress.org/plugins/gf-hcaptcha/) | 2000+ | 2022-07-15T13:53:00Z | 6.0.19 | Sin actualizar ≥730 días | OK |
 | [HTACCESS IP Blocker](https://wordpress.org/plugins/htaccess-ip-blocker/) | 2000+ | 2020-07-21T19:07:00Z | 5.4.26 | Sin actualizar ≥730 días | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [leadlovers for Elementor](https://wordpress.org/plugins/leadlovers-for-elementor/) | 2000+ | 2024-01-23T13:33:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Lemmony Companion](https://wordpress.org/plugins/lemmony-companion/) | 2000+ | 2023-07-07T17:03:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Modal Guten Block](https://wordpress.org/plugins/modal-block/) | 2000+ | 2023-10-03T18:52:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |

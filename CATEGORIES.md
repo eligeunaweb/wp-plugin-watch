@@ -19,7 +19,7 @@ Categorías automáticas orientativas / Heuristic categories, not reviewed.
 <a id="commerce"></a>
 ## Comercio electrónico
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -44,7 +44,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="forms"></a>
 ## Formularios
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -70,7 +70,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="seo"></a>
 ## SEO y analítica
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -99,7 +99,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="security"></a>
 ## Seguridad y acceso
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -128,7 +128,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="backup"></a>
 ## Copias y migración
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -151,7 +151,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="performance"></a>
 ## Rendimiento
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -172,7 +172,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="media"></a>
 ## Multimedia
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -216,7 +216,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="design"></a>
 ## Diseño y edición
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -290,7 +290,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="communication"></a>
 ## Comunicación
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -320,7 +320,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="administration"></a>
 ## Administración
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -347,7 +347,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="other"></a>
 ## Sin clasificar
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|

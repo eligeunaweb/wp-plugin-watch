@@ -13,7 +13,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 
 <!-- WATCH:START -->
 
-Última consulta: **2026-11-20T15:39:04Z** · Errores: **0**
+Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|

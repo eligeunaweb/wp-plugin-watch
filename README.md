@@ -13,7 +13,7 @@ Expanded catalogue: discovery among the first 5,000 popular results, with at lea
 
 <!-- WATCH:START -->
 
-Last run: **2026-11-20T15:39:04Z** · Errors: **0**
+Last run: **2026-11-21T14:49:15Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|

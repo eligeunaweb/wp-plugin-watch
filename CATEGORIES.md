@@ -5,21 +5,21 @@
 Categorías automáticas orientativas / Heuristic categories, not reviewed.
 
 - [Comercio electrónico (11)](#commerce)
-- [Formularios (12)](#forms)
+- [Formularios (13)](#forms)
 - [SEO y analítica (15)](#seo)
-- [Seguridad y acceso (15)](#security)
+- [Seguridad y acceso (16)](#security)
 - [Copias y migración (9)](#backup)
 - [Rendimiento (7)](#performance)
-- [Multimedia (30)](#media)
-- [Diseño y edición (60)](#design)
-- [Comunicación (16)](#communication)
+- [Multimedia (31)](#media)
+- [Diseño y edición (61)](#design)
+- [Comunicación (18)](#communication)
 - [Administración (13)](#administration)
-- [Sin clasificar (43)](#other)
+- [Sin clasificar (45)](#other)
 
 <a id="commerce"></a>
 ## Comercio electrónico
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -44,7 +44,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="forms"></a>
 ## Formularios
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -56,6 +56,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [UniqueID for Contact Form 7](https://wordpress.org/plugins/cf7-submission-id/) | 2000+ | 2021-04-01T13:22:00Z | 5.7.0 | Sin actualizar ≥730 días | OK |
 | [Fluent Forms Block](https://wordpress.org/plugins/fluentform-block/) | 2000+ | 2024-07-17T07:03:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [G-Forms hCaptcha](https://wordpress.org/plugins/gf-hcaptcha/) | 2000+ | 2022-07-15T13:53:00Z | 6.0.19 | Sin actualizar ≥730 días | OK |
+| [Gravity Slider Fields](https://wordpress.org/plugins/gravity-slider-fields/) | 2000+ | 2024-11-19T23:04:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Account Engagement](https://wordpress.org/plugins/pardot/) | 2000+ | 2024-06-03T14:50:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Brilliant Web-to-Lead for Salesforce](https://wordpress.org/plugins/salesforce-wordpress-to-lead/) | 2000+ | 2022-02-24T19:37:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [Select and Multi-Select Field for Contact Form 7](https://wordpress.org/plugins/select-multiselect-field-contact-form-7/) | 2000+ | 2019-12-07T06:23:00Z | 5.3.28 | Sin actualizar ≥730 días | OK |
@@ -70,7 +71,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="seo"></a>
 ## SEO y analítica
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -99,13 +100,14 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="security"></a>
 ## Seguridad y acceso
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
 | [Disable REST API](https://wordpress.org/plugins/disable-json-api/) | 80000+ | 2023-09-14T00:26:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Easy SSL Plugin for SAKURA Rental Server](https://wordpress.org/plugins/sakura-rs-wp-ssl/) | 50000+ | 2019-11-25T02:46:00Z | 5.3.28 | Sin actualizar ≥730 días | OK |
 | [Change WordPress Login Logo](https://wordpress.org/plugins/change-login-logo/) | 20000+ | 2024-07-31T06:16:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
+| [Ultimate Member – reCAPTCHA](https://wordpress.org/plugins/um-recaptcha/) | 20000+ | 2024-11-20T00:18:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Login by Auth0](https://wordpress.org/plugins/auth0/) | 10000+ | 2024-07-12T16:57:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [WP Hardening (discontinued)](https://wordpress.org/plugins/wp-security-hardening/) | 10000+ | 2024-09-13T10:33:00Z | 6.0.19 | Sin actualizar ≥730 días | OK |
 | [Delete Pending Comments](https://wordpress.org/plugins/delete-pending-comments/) | 8000+ | 2024-01-28T17:10:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
@@ -128,11 +130,11 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="backup"></a>
 ## Copias y migración
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
-| [Add From Server](https://wordpress.org/plugins/add-from-server/) | 60000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
+| [Add From Server](https://wordpress.org/plugins/add-from-server/) | 50000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
 | [Export Media Library](https://wordpress.org/plugins/export-media-library/) | 30000+ | 2023-04-05T15:30:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Cyclone Demo Importer](https://wordpress.org/plugins/cyclone-demo-importer/) | 10000+ | 2024-06-18T09:59:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 7000+ | 2024-08-01T01:44:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
@@ -151,7 +153,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="performance"></a>
 ## Rendimiento
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -172,12 +174,12 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="media"></a>
 ## Multimedia
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
-| [Add From Server](https://wordpress.org/plugins/add-from-server/) | 60000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
 | [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/) | 60000+ | 2024-07-15T14:07:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
+| [Add From Server](https://wordpress.org/plugins/add-from-server/) | 50000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
 | [Export Media Library](https://wordpress.org/plugins/export-media-library/) | 30000+ | 2023-04-05T15:30:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Increase Maximum Upload File Size](https://wordpress.org/plugins/upload-max-file-size/) | 30000+ | 2023-08-14T06:49:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [Multiple Post Thumbnails](https://wordpress.org/plugins/multiple-post-thumbnails/) | 10000+ | 2018-11-26T18:32:00Z | 5.0.32 | Sin actualizar ≥730 días | OK |
@@ -201,6 +203,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Popular Brand Icons – Simple Icons](https://wordpress.org/plugins/simple-icons/) | 3000+ | 2023-11-20T20:08:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Algori Video and Image Slider](https://wordpress.org/plugins/algori-image-video-slider/) | 2000+ | 2022-07-11T13:08:00Z | 6.0.19 | Sin actualizar ≥730 días | OK |
 | [Easy SwipeBox](https://wordpress.org/plugins/easy-swipebox/) | 2000+ | 2021-02-26T17:23:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
+| [Gravity Slider Fields](https://wordpress.org/plugins/gravity-slider-fields/) | 2000+ | 2024-11-19T23:04:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [NextGEN Download Gallery](https://wordpress.org/plugins/nextgen-download-gallery/) | 2000+ | 2024-03-17T04:31:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Parallax Image](https://wordpress.org/plugins/parallax-image/) | 2000+ | 2024-11-15T14:59:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Easy Photography Portfolio](https://wordpress.org/plugins/photography-portfolio/) | 2000+ | 2021-02-27T14:01:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
@@ -216,7 +219,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="design"></a>
 ## Diseño y edición
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -247,6 +250,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Gutenberg Blocks Library &amp; Toolkit – Editor Plus](https://wordpress.org/plugins/editorplus/) | 6000+ | 2023-11-09T08:21:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Simple Iframe](https://wordpress.org/plugins/simple-iframe/) | 6000+ | 2024-06-09T19:35:00Z | 6.6.0 | Sin actualizar ≥730 días | OK |
 | [ThemeZee Toolkit](https://wordpress.org/plugins/themezee-toolkit/) | 6000+ | 2021-06-06T17:13:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
+| [Call Now and Chat Buttons](https://wordpress.org/plugins/call-now-and-chat-buttons/) | 5000+ | 2024-11-20T18:20:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Custom links in Elementor Image Carousel](https://wordpress.org/plugins/custom-links-in-elementor-image-carousel/) | 5000+ | 2022-11-09T21:57:00Z | 6.1.17 | Sin actualizar ≥730 días | OK |
 | [Embed Google Fonts](https://wordpress.org/plugins/embed-google-fonts/) | 5000+ | 2024-05-02T08:28:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [PageSpeed Ninja – Cache, Minify, Defer CSS JavaScript, Critical CSS, Optimize Images, Convert WebP](https://wordpress.org/plugins/psn-pagespeed-ninja/) | 5000+ | 2024-09-26T12:19:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
@@ -290,11 +294,12 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="communication"></a>
 ## Comunicación
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
 | [Facebook Chat Plugin – Live Chat Plugin for WordPress](https://wordpress.org/plugins/facebook-messenger-customer-chat/) | 70000+ | 2022-07-05T23:01:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
+| [ActiveCampaign Postmark for WordPress](https://wordpress.org/plugins/postmark-approved-wordpress-plugin/) | 50000+ | 2024-11-18T20:01:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Login by Auth0](https://wordpress.org/plugins/auth0/) | 10000+ | 2024-07-12T16:57:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Disable Theme and Plugin Auto-Update Emails](https://wordpress.org/plugins/disable-theme-and-plugin-auto-update-emails/) | 10000+ | 2023-10-24T21:49:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Professional Social Sharing Buttons, Icons &amp; Related Posts – Shareaholic](https://wordpress.org/plugins/shareaholic/) | 10000+ | 2024-11-05T19:08:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
@@ -303,6 +308,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [WP Mailto Links – Protect Email Addresses](https://wordpress.org/plugins/wp-mailto-links/) | 7000+ | 2023-09-22T16:55:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Booster Extension](https://wordpress.org/plugins/booster-extension/) | 6000+ | 2024-04-26T04:40:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Seed Social](https://wordpress.org/plugins/seed-social/) | 6000+ | 2026-11-20T13:46:00Z | 7.1.5 | Actualizado hace <730 días | OK |
+| [Call Now and Chat Buttons](https://wordpress.org/plugins/call-now-and-chat-buttons/) | 5000+ | 2024-11-20T18:20:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [chat-me-now](https://wordpress.org/plugins/chat-me-now/) | 4000+ | 2021-05-22T11:44:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
 | [Disable New User Notification Emails](https://wordpress.org/plugins/disable-new-user-notifications/) | 4000+ | 2021-07-19T04:46:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [oEmbed Plus](https://wordpress.org/plugins/oembed-plus/) | 3000+ | 2021-07-15T10:24:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
@@ -320,14 +326,14 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="administration"></a>
 ## Administración
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
 | [Health Check &amp; Troubleshooting](https://wordpress.org/plugins/health-check/) | 200000+ | 2024-07-25T21:43:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Disable REST API](https://wordpress.org/plugins/disable-json-api/) | 80000+ | 2023-09-14T00:26:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) | 70000+ | 2023-08-31T13:23:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
-| [Add From Server](https://wordpress.org/plugins/add-from-server/) | 60000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
+| [Add From Server](https://wordpress.org/plugins/add-from-server/) | 50000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
 | [Scripts n Styles](https://wordpress.org/plugins/scripts-n-styles/) | 30000+ | 2023-06-06T19:13:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Change WordPress Login Logo](https://wordpress.org/plugins/change-login-logo/) | 20000+ | 2024-07-31T06:16:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Hide Admin Notices](https://wordpress.org/plugins/hide-admin-notices/) | 20000+ | 2024-02-18T17:52:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
@@ -347,7 +353,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="other"></a>
 ## Sin clasificar
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -377,6 +383,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Save with keyboard](https://wordpress.org/plugins/save-with-keyboard/) | 3000+ | 2018-11-03T08:57:00Z | 5.0.32 | Sin actualizar ≥730 días | OK |
 | [Simple Keyword to Link](https://wordpress.org/plugins/simple-keyword-to-link/) | 3000+ | 2024-08-21T13:07:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Subtitles](https://wordpress.org/plugins/subtitles/) | 3000+ | 2017-08-29T03:15:00Z | 4.8.35 | Sin actualizar ≥730 días | OK |
+| [Travel Agency Companion – Create Tour &amp; Travel Website Using WP Travel Engine](https://wordpress.org/plugins/travel-agency-companion/) | 3000+ | 2024-11-21T11:17:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Ultimate Member – Online Users](https://wordpress.org/plugins/um-online/) | 3000+ | 2024-11-15T16:47:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) | 3000+ | 2022-05-04T18:24:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [ACF: Rus-To-Lat](https://wordpress.org/plugins/acf-rus-to-lat/) | 2000+ | 2018-11-19T09:30:00Z | 5.0.0 | Sin actualizar ≥730 días | OK |
@@ -392,6 +399,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Sp*tify Play Button for WordPress](https://wordpress.org/plugins/spotify-play-button-for-wordpress/) | 2000+ | 2024-11-18T14:27:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [SrbTransLatin – Serbian Latinisation](https://wordpress.org/plugins/srbtranslatin/) | 2000+ | 2023-12-13T10:09:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Supreme Maps](https://wordpress.org/plugins/supreme-maps/) | 2000+ | 2024-11-13T01:21:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
+| [Themeflection Numbers – Number Counter and Animated Numbers](https://wordpress.org/plugins/tf-numbers-number-counter-animaton/) | 2000+ | 2024-11-21T07:00:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Webflow Pages](https://wordpress.org/plugins/webflow-pages/) | 2000+ | 2024-11-13T09:22:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [WP and Divi Icons](https://wordpress.org/plugins/wp-and-divi-icons/) | 2000+ | 2024-08-15T22:59:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 

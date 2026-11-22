@@ -13,7 +13,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 
 <!-- WATCH:START -->
 
-Última consulta: **2026-11-21T14:49:15Z** · Errores: **0**
+Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -24,9 +24,10 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Facebook Chat Plugin – Live Chat Plugin for WordPress](https://wordpress.org/plugins/facebook-messenger-customer-chat/) | 70000+ | 2022-07-05T23:01:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) | 70000+ | 2023-08-31T13:23:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Fixed Widget and Sticky Elements for WordPress](https://wordpress.org/plugins/q2w3-fixed-widget/) | 70000+ | 2023-03-30T07:15:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
-| [Add From Server](https://wordpress.org/plugins/add-from-server/) | 60000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
 | [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/) | 60000+ | 2024-07-15T14:07:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Brazilian Market on WooCommerce](https://wordpress.org/plugins/woocommerce-extra-checkout-fields-for-brazil/) | 60000+ | 2024-02-17T19:14:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
+| [Add From Server](https://wordpress.org/plugins/add-from-server/) | 50000+ | 2020-12-11T07:32:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
+| [ActiveCampaign Postmark for WordPress](https://wordpress.org/plugins/postmark-approved-wordpress-plugin/) | 50000+ | 2024-11-18T20:01:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Easy SSL Plugin for SAKURA Rental Server](https://wordpress.org/plugins/sakura-rs-wp-ssl/) | 50000+ | 2019-11-25T02:46:00Z | 5.3.28 | Sin actualizar ≥730 días | OK |
 | [Disable Google Fonts](https://wordpress.org/plugins/disable-google-fonts/) | 30000+ | 2019-02-24T21:01:00Z | 5.1.29 | Sin actualizar ≥730 días | OK |
 | [Export Media Library](https://wordpress.org/plugins/export-media-library/) | 30000+ | 2023-04-05T15:30:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
@@ -39,6 +40,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Material Design Icons for Page Builders](https://wordpress.org/plugins/material-design-icons-for-elementor/) | 20000+ | 2024-03-20T12:40:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Self-Hosted Google Fonts](https://wordpress.org/plugins/selfhost-google-fonts/) | 20000+ | 2018-06-15T05:34:00Z | 4.9.36 | Sin actualizar ≥730 días | OK |
 | [Transients Manager](https://wordpress.org/plugins/transients-manager/) | 20000+ | 2024-10-18T17:06:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
+| [Ultimate Member – reCAPTCHA](https://wordpress.org/plugins/um-recaptcha/) | 20000+ | 2024-11-20T00:18:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Accordion Blocks](https://wordpress.org/plugins/accordion-blocks/) | 10000+ | 2022-02-07T19:33:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [Login by Auth0](https://wordpress.org/plugins/auth0/) | 10000+ | 2024-07-12T16:57:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Blog Designer](https://wordpress.org/plugins/blog-designer/) | 10000+ | 2024-08-12T13:17:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
@@ -101,6 +103,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [WP Responsive Table](https://wordpress.org/plugins/wp-responsive-table/) | 6000+ | 2021-01-16T01:04:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
 | [Allow Webp image](https://wordpress.org/plugins/allow-webp-image/) | 5000+ | 2022-01-31T06:48:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [BST DSGVO Cookie](https://wordpress.org/plugins/bst-dsgvo-cookie/) | 5000+ | 2021-09-19T17:13:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
+| [Call Now and Chat Buttons](https://wordpress.org/plugins/call-now-and-chat-buttons/) | 5000+ | 2024-11-20T18:20:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Čeština: zalomení řádků](https://wordpress.org/plugins/cestina-zalomeni-radku/) | 5000+ | 2023-03-27T12:31:00Z | 6.1.17 | Sin actualizar ≥730 días | OK |
 | [Custom links in Elementor Image Carousel](https://wordpress.org/plugins/custom-links-in-elementor-image-carousel/) | 5000+ | 2022-11-09T21:57:00Z | 6.1.17 | Sin actualizar ≥730 días | OK |
 | [DCO Comment Attachment](https://wordpress.org/plugins/dco-comment-attachment/) | 5000+ | 2022-10-02T22:41:00Z | 6.0.19 | Sin actualizar ≥730 días | OK |
@@ -157,6 +160,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Simple Keyword to Link](https://wordpress.org/plugins/simple-keyword-to-link/) | 3000+ | 2024-08-21T13:07:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2026-11-19T22:11:00Z | 7.1.5 | Actualizado hace <730 días | OK |
 | [Subtitles](https://wordpress.org/plugins/subtitles/) | 3000+ | 2017-08-29T03:15:00Z | 4.8.35 | Sin actualizar ≥730 días | OK |
+| [Travel Agency Companion – Create Tour &amp; Travel Website Using WP Travel Engine](https://wordpress.org/plugins/travel-agency-companion/) | 3000+ | 2024-11-21T11:17:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [Ultimate Member – Online Users](https://wordpress.org/plugins/um-online/) | 3000+ | 2024-11-15T16:47:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) | 3000+ | 2022-05-04T18:24:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [Live Visitor Counter](https://wordpress.org/plugins/wp-visitors-widget/) | 3000+ | 2023-06-20T10:26:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
@@ -182,6 +186,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Fluent Forms Block](https://wordpress.org/plugins/fluentform-block/) | 2000+ | 2024-07-17T07:03:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Genesis Featured Widget Amplified](https://wordpress.org/plugins/genesis-featured-widget-amplified/) | 2000+ | 2017-12-22T13:48:00Z | 4.9.36 | Sin actualizar ≥730 días | OK |
 | [G-Forms hCaptcha](https://wordpress.org/plugins/gf-hcaptcha/) | 2000+ | 2022-07-15T13:53:00Z | 6.0.19 | Sin actualizar ≥730 días | OK |
+| [Gravity Slider Fields](https://wordpress.org/plugins/gravity-slider-fields/) | 2000+ | 2024-11-19T23:04:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [HTACCESS IP Blocker](https://wordpress.org/plugins/htaccess-ip-blocker/) | 2000+ | 2020-07-21T19:07:00Z | 5.4.26 | Sin actualizar ≥730 días | OK |
 | [leadlovers for Elementor](https://wordpress.org/plugins/leadlovers-for-elementor/) | 2000+ | 2024-01-23T13:33:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Lemmony Companion](https://wordpress.org/plugins/lemmony-companion/) | 2000+ | 2023-07-07T17:03:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
@@ -204,6 +209,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [SrbTransLatin – Serbian Latinisation](https://wordpress.org/plugins/srbtranslatin/) | 2000+ | 2023-12-13T10:09:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [StylizedX – Variation Switcher Dark Mode for Full Site Editing (FSE) Themes](https://wordpress.org/plugins/stylizedx/) | 2000+ | 2024-01-23T06:34:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Supreme Maps](https://wordpress.org/plugins/supreme-maps/) | 2000+ | 2024-11-13T01:21:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
+| [Themeflection Numbers – Number Counter and Animated Numbers](https://wordpress.org/plugins/tf-numbers-number-counter-animaton/) | 2000+ | 2024-11-21T07:00:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [The Social Links](https://wordpress.org/plugins/the-social-links/) | 2000+ | 2021-11-09T21:20:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [Webflow Pages](https://wordpress.org/plugins/webflow-pages/) | 2000+ | 2024-11-13T09:22:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Widgets for WooCommerce Products on Elementor](https://wordpress.org/plugins/woo-products-widgets-for-elementor/) | 2000+ | 2024-10-14T12:14:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |

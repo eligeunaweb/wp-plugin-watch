@@ -13,7 +13,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 
 <!-- WATCH:START -->
 
-Última consulta: **2026-11-22T14:45:10Z** · Errores: **0**
+Última consulta: **2026-11-23T18:30:30Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -77,7 +77,6 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [Sinatra Core](https://wordpress.org/plugins/sinatra-core/) | 8000+ | 2023-08-30T18:02:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Sold Out Badge for WooCommerce](https://wordpress.org/plugins/sold-out-badge-for-woocommerce/) | 8000+ | 2023-05-30T19:26:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Taxonomy Images](https://wordpress.org/plugins/taxonomy-images/) | 8000+ | 2024-02-15T18:12:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
-| [WP Custom Cursors &#124; WordPress Cursor Plugin](https://wordpress.org/plugins/wp-custom-cursors/) | 8000+ | 2024-03-03T07:00:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Ajax Cart AutoUpdate for WooCommerce](https://wordpress.org/plugins/ajax-cart-autoupdate-for-woocommerce/) | 7000+ | 2021-03-30T21:37:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
 | [Algori PDF Viewer](https://wordpress.org/plugins/algori-pdf-viewer/) | 7000+ | 2024-11-07T12:50:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [CHL-Change HTML Lang](https://wordpress.org/plugins/chl-change-html-lang/) | 7000+ | 2024-05-17T17:46:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
@@ -90,6 +89,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [WP REST API – OAuth 1.0a Server](https://wordpress.org/plugins/rest-api-oauth1/) | 7000+ | 2024-08-05T10:18:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 7000+ | 2024-08-01T01:44:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Who Stole the Text Justify Button ?!](https://wordpress.org/plugins/who-stole-the-text-justify-button/) | 7000+ | 2019-10-23T07:46:00Z | 5.3.28 | Sin actualizar ≥730 días | OK |
+| [WP Custom Cursors &#124; WordPress Cursor Plugin](https://wordpress.org/plugins/wp-custom-cursors/) | 7000+ | 2024-03-03T07:00:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [WP Mailto Links – Protect Email Addresses](https://wordpress.org/plugins/wp-mailto-links/) | 7000+ | 2023-09-22T16:55:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Booster Extension](https://wordpress.org/plugins/booster-extension/) | 6000+ | 2024-04-26T04:40:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Easy Add Thumbnail](https://wordpress.org/plugins/easy-add-thumbnail/) | 6000+ | 2023-10-05T16:22:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
@@ -98,7 +98,6 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [REST API Meta Support](https://wordpress.org/plugins/rest-api-meta-support/) | 6000+ | 2020-05-29T18:33:00Z | 5.4.26 | Sin actualizar ≥730 días | OK |
 | [Seed Social](https://wordpress.org/plugins/seed-social/) | 6000+ | 2026-11-20T13:46:00Z | 7.1.5 | Actualizado hace <730 días | OK |
 | [Simple Iframe](https://wordpress.org/plugins/simple-iframe/) | 6000+ | 2024-06-09T19:35:00Z | 6.6.0 | Sin actualizar ≥730 días | OK |
-| [ThemeZee Toolkit](https://wordpress.org/plugins/themezee-toolkit/) | 6000+ | 2021-06-06T17:13:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [Ultimate 410 Gone Status Code](https://wordpress.org/plugins/ultimate-410/) | 6000+ | 2024-08-15T07:46:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [WP Responsive Table](https://wordpress.org/plugins/wp-responsive-table/) | 6000+ | 2021-01-16T01:04:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
 | [Allow Webp image](https://wordpress.org/plugins/allow-webp-image/) | 5000+ | 2022-01-31T06:48:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
@@ -118,6 +117,7 @@ Catálogo ampliado: descubrimiento entre los primeros 5.000 resultados populares
 | [SoundCloud Shortcode](https://wordpress.org/plugins/soundcloud-shortcode/) | 5000+ | 2024-03-28T10:37:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Sparkle Demo Importer](https://wordpress.org/plugins/sparkle-demo-importer/) | 5000+ | 2024-06-20T05:11:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [States, Cities, and Places for WooCommerce](https://wordpress.org/plugins/states-cities-and-places-for-woocommerce/) | 5000+ | 2022-02-21T04:46:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
+| [ThemeZee Toolkit](https://wordpress.org/plugins/themezee-toolkit/) | 5000+ | 2021-06-06T17:13:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [Envato Toolkit](https://wordpress.org/plugins/toolkit-for-envato/) | 5000+ | 2021-04-26T18:00:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
 | [Turn Rank Math FAQ Block to Accordion](https://wordpress.org/plugins/turn-rank-math-faq-block-to-accordion/) | 5000+ | 2024-05-21T21:17:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [UserHeat Plugin](https://wordpress.org/plugins/userheat/) | 5000+ | 2024-04-01T07:58:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |

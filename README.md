@@ -13,7 +13,7 @@ Expanded catalogue: discovery among the first 5,000 popular results, with at lea
 
 <!-- WATCH:START -->
 
-Last run: **2026-11-24T17:58:41Z** · Errors: **0**
+Last run: **2026-11-25T17:27:26Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -40,7 +40,7 @@ Last run: **2026-11-24T17:58:41Z** · Errors: **0**
 | [Material Design Icons for Page Builders](https://wordpress.org/plugins/material-design-icons-for-elementor/) | 20000+ | 2024-03-20T12:40:00Z | 6.5.15 | No updates ≥730 days | OK |
 | [Self-Hosted Google Fonts](https://wordpress.org/plugins/selfhost-google-fonts/) | 20000+ | 2018-06-15T05:34:00Z | 4.9.36 | No updates ≥730 days | OK |
 | [Transients Manager](https://wordpress.org/plugins/transients-manager/) | 20000+ | 2024-10-18T17:06:00Z | 6.6.12 | No updates ≥730 days | OK |
-| [Ultimate Member – reCAPTCHA](https://wordpress.org/plugins/um-recaptcha/) | 20000+ | 2024-11-20T00:18:00Z | 6.7.12 | No updates ≥730 days | OK |
+| [Ultimate Member – reCAPTCHA](https://wordpress.org/plugins/um-recaptcha/) | 20000+ | 2026-11-25T12:28:00Z | 7.1.5 | Updated within 730 days | OK |
 | [Accordion Blocks](https://wordpress.org/plugins/accordion-blocks/) | 10000+ | 2022-02-07T19:33:00Z | 5.9.21 | No updates ≥730 days | OK |
 | [Login by Auth0](https://wordpress.org/plugins/auth0/) | 10000+ | 2024-07-12T16:57:00Z | 6.5.15 | No updates ≥730 days | OK |
 | [Blog Designer](https://wordpress.org/plugins/blog-designer/) | 10000+ | 2024-08-12T13:17:00Z | 6.6.12 | No updates ≥730 days | OK |
@@ -150,7 +150,6 @@ Last run: **2026-11-24T17:58:41Z** · Errors: **0**
 | [Featured Galleries](https://wordpress.org/plugins/featured-galleries/) | 3000+ | 2018-08-02T22:31:00Z | 4.9.36 | No updates ≥730 days | OK |
 | [Genesis Dambuster](https://wordpress.org/plugins/genesis-dambuster/) | 3000+ | 2019-03-28T11:27:00Z | 5.1.29 | No updates ≥730 days | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | No updates ≥730 days | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [oEmbed Plus](https://wordpress.org/plugins/oembed-plus/) | 3000+ | 2021-07-15T10:24:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [Save with keyboard](https://wordpress.org/plugins/save-with-keyboard/) | 3000+ | 2018-11-03T08:57:00Z | 5.0.32 | No updates ≥730 days | OK |
@@ -161,7 +160,7 @@ Last run: **2026-11-24T17:58:41Z** · Errors: **0**
 | [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2026-11-19T22:11:00Z | 7.1.5 | Updated within 730 days | OK |
 | [Subtitles](https://wordpress.org/plugins/subtitles/) | 3000+ | 2017-08-29T03:15:00Z | 4.8.35 | No updates ≥730 days | OK |
 | [Travel Agency Companion – Create Tour &amp; Travel Website Using WP Travel Engine](https://wordpress.org/plugins/travel-agency-companion/) | 3000+ | 2024-11-21T11:17:00Z | 6.7.12 | No updates ≥730 days | OK |
-| [Ultimate Member – Online Users](https://wordpress.org/plugins/um-online/) | 3000+ | 2024-11-15T16:47:00Z | 6.7.12 | No updates ≥730 days | OK |
+| [Ultimate Member – Online Users](https://wordpress.org/plugins/um-online/) | 3000+ | 2026-11-25T12:28:00Z | 7.1.5 | Updated within 730 days | OK |
 | [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) | 3000+ | 2022-05-04T18:24:00Z | 5.9.21 | No updates ≥730 days | OK |
 | [Live Visitor Counter](https://wordpress.org/plugins/wp-visitors-widget/) | 3000+ | 2023-06-20T10:26:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [ACF: Rus-To-Lat](https://wordpress.org/plugins/acf-rus-to-lat/) | 2000+ | 2018-11-19T09:30:00Z | 5.0.0 | No updates ≥730 days | OK |
@@ -178,7 +177,7 @@ Last run: **2026-11-24T17:58:41Z** · Errors: **0**
 | [Dashboard Sticky Notes](https://wordpress.org/plugins/dashboard-sticky-notes/) | 2000+ | 2020-07-11T00:35:00Z | 5.4.26 | No updates ≥730 days | OK |
 | [Duplicate Taxonomy Term](https://wordpress.org/plugins/duplicate-term/) | 2000+ | 2023-04-09T12:22:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [E-namad &amp; Shamed Logo Manager](https://wordpress.org/plugins/e-namad-shamed-logo-manager/) | 2000+ | 2020-08-20T00:32:00Z | 5.5.25 | No updates ≥730 days | OK |
-| [Easy SwipeBox](https://wordpress.org/plugins/easy-swipebox/) | 2000+ | 2021-02-26T17:23:00Z | 5.6.24 | No updates ≥730 days | OK |
+| [Easy SwipeBox](https://wordpress.org/plugins/easy-swipebox/) | 2000+ | 2026-11-25T08:33:00Z | 5.6.24 | Updated within 730 days | OK |
 | [Embed Iframe](https://wordpress.org/plugins/embed-iframe/) | 2000+ | 2022-06-01T02:10:00Z | 6.0.19 | No updates ≥730 days | OK |
 | [EnvoThemes Demo Import](https://wordpress.org/plugins/envothemes-demo-import/) | 2000+ | 2022-12-09T12:24:00Z | 6.1.17 | No updates ≥730 days | OK |
 | [Export Plugin Details](https://wordpress.org/plugins/export-plugin-details/) | 2000+ | 2024-07-31T07:27:00Z | 6.6.12 | No updates ≥730 days | OK |
@@ -188,6 +187,7 @@ Last run: **2026-11-24T17:58:41Z** · Errors: **0**
 | [G-Forms hCaptcha](https://wordpress.org/plugins/gf-hcaptcha/) | 2000+ | 2022-07-15T13:53:00Z | 6.0.19 | No updates ≥730 days | OK |
 | [Gravity Slider Fields](https://wordpress.org/plugins/gravity-slider-fields/) | 2000+ | 2024-11-19T23:04:00Z | 6.5.15 | No updates ≥730 days | OK |
 | [HTACCESS IP Blocker](https://wordpress.org/plugins/htaccess-ip-blocker/) | 2000+ | 2020-07-21T19:07:00Z | 5.4.26 | No updates ≥730 days | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [leadlovers for Elementor](https://wordpress.org/plugins/leadlovers-for-elementor/) | 2000+ | 2024-01-23T13:33:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [Lemmony Companion](https://wordpress.org/plugins/lemmony-companion/) | 2000+ | 2023-07-07T17:03:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [Modal Guten Block](https://wordpress.org/plugins/modal-block/) | 2000+ | 2023-10-03T18:52:00Z | 6.3.15 | No updates ≥730 days | OK |

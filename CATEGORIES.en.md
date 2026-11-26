@@ -19,7 +19,7 @@ Categorías automáticas orientativas / Heuristic categories, not reviewed.
 <a id="commerce"></a>
 ## E-commerce
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -44,12 +44,12 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="forms"></a>
 ## Forms
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
 | [Event Tracking for Gravity Forms](https://wordpress.org/plugins/gravity-forms-google-analytics-event-tracking/) | 10000+ | 2024-11-03T23:15:00Z | 6.7.12 | No updates ≥730 days | OK |
-| [International Telephone Input for Contact Form 7](https://wordpress.org/plugins/international-telephone-input-for-contact-form-7/) | 8000+ | 2022-02-21T04:53:00Z | 5.9.21 | No updates ≥730 days | OK |
+| [International Telephone Input for Contact Form 7](https://wordpress.org/plugins/international-telephone-input-for-contact-form-7/) | 7000+ | 2022-02-21T04:53:00Z | 5.9.21 | No updates ≥730 days | OK |
 | [Contact Form 7 Polylang Module](https://wordpress.org/plugins/cf7-polylang/) | 4000+ | 2023-12-13T15:51:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [No CAPTCHA reCAPTCHA](https://wordpress.org/plugins/no-captcha-recaptcha/) | 4000+ | 2020-04-15T16:05:00Z | 5.4.26 | No updates ≥730 days | OK |
 | [Gutenberg Block for WooCommerce Product Table](https://wordpress.org/plugins/block-for-woo-product-table/) | 3000+ | 2024-11-13T09:40:00Z | 6.7.12 | No updates ≥730 days | OK |
@@ -71,7 +71,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="seo"></a>
 ## SEO & analytics
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -100,7 +100,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="security"></a>
 ## Security & access
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -130,7 +130,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="backup"></a>
 ## Backup & migration
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -153,7 +153,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="performance"></a>
 ## Performance
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -161,9 +161,9 @@ Last run: **2026-11-25T17:27:26Z** · Errors: **0**
 | [Link Juice Optimizer](https://wordpress.org/plugins/link-juice-optimizer/) | 5000+ | 2024-01-16T18:16:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [PageSpeed Ninja – Cache, Minify, Defer CSS JavaScript, Critical CSS, Optimize Images, Convert WebP](https://wordpress.org/plugins/psn-pagespeed-ninja/) | 5000+ | 2024-09-26T12:19:00Z | 6.6.12 | No updates ≥730 days | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | No updates ≥730 days | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2026-11-19T22:11:00Z | 7.1.5 | Updated within 730 days | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 
 ¹ WordPress.org published figures, not exact counts. Hist.: last known value, not current.
 ² Author declaration; compatibility has not been tested here.
@@ -174,7 +174,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="media"></a>
 ## Media
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -219,7 +219,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="design"></a>
 ## Design & editing
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -294,7 +294,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="communication"></a>
 ## Communication
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -326,7 +326,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="administration"></a>
 ## Administration
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -353,7 +353,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="other"></a>
 ## Unclassified
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|

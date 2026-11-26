@@ -13,7 +13,7 @@ Expanded catalogue: discovery among the first 5,000 popular results, with at lea
 
 <!-- WATCH:START -->
 
-Last run: **2026-11-25T17:27:26Z** · Errors: **0**
+Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -71,7 +71,6 @@ Last run: **2026-11-25T17:27:26Z** · Errors: **0**
 | [AH Display Widgets](https://wordpress.org/plugins/ah-display-widgets/) | 8000+ | 2018-10-29T18:53:00Z | 5.0.32 | No updates ≥730 days | OK |
 | [Bulk Move](https://wordpress.org/plugins/bulk-move/) | 8000+ | 2024-01-28T17:08:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [Delete Pending Comments](https://wordpress.org/plugins/delete-pending-comments/) | 8000+ | 2024-01-28T17:10:00Z | 6.4.15 | No updates ≥730 days | OK |
-| [International Telephone Input for Contact Form 7](https://wordpress.org/plugins/international-telephone-input-for-contact-form-7/) | 8000+ | 2022-02-21T04:53:00Z | 5.9.21 | No updates ≥730 days | OK |
 | [Max upload filesize](https://wordpress.org/plugins/max-upload-filesize/) | 8000+ | 2019-12-07T17:15:00Z | 5.3.28 | No updates ≥730 days | OK |
 | [Simple Post Type Permalinks](https://wordpress.org/plugins/simple-post-type-permalinks/) | 8000+ | 2019-06-04T22:43:00Z | 5.2.31 | No updates ≥730 days | OK |
 | [Sinatra Core](https://wordpress.org/plugins/sinatra-core/) | 8000+ | 2023-08-30T18:02:00Z | 6.3.15 | No updates ≥730 days | OK |
@@ -83,6 +82,7 @@ Last run: **2026-11-25T17:27:26Z** · Errors: **0**
 | [Classic Menu Block](https://wordpress.org/plugins/classic-menu-block/) | 7000+ | 2024-04-24T18:39:00Z | 6.5.15 | No updates ≥730 days | OK |
 | [Delete Me](https://wordpress.org/plugins/delete-me/) | 7000+ | 2024-06-02T14:24:00Z | 6.5.15 | No updates ≥730 days | OK |
 | [Get the Image](https://wordpress.org/plugins/get-the-image/) | 7000+ | 2017-11-28T06:44:00Z | 4.8.35 | No updates ≥730 days | OK |
+| [International Telephone Input for Contact Form 7](https://wordpress.org/plugins/international-telephone-input-for-contact-form-7/) | 7000+ | 2022-02-21T04:53:00Z | 5.9.21 | No updates ≥730 days | OK |
 | [jQuery Manager for WordPress](https://wordpress.org/plugins/jquery-manager/) | 7000+ | 2020-07-20T11:07:00Z | 5.5.25 | No updates ≥730 days | OK |
 | [Remove &amp; Disable XML-RPC Pingback](https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/) | 7000+ | 2023-07-24T23:03:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [ReOrder Posts within Categories](https://wordpress.org/plugins/reorder-post-within-categories/) | 7000+ | 2023-12-08T08:12:00Z | 6.3.0 | No updates ≥730 days | OK |
@@ -150,6 +150,7 @@ Last run: **2026-11-25T17:27:26Z** · Errors: **0**
 | [Featured Galleries](https://wordpress.org/plugins/featured-galleries/) | 3000+ | 2018-08-02T22:31:00Z | 4.9.36 | No updates ≥730 days | OK |
 | [Genesis Dambuster](https://wordpress.org/plugins/genesis-dambuster/) | 3000+ | 2019-03-28T11:27:00Z | 5.1.29 | No updates ≥730 days | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | No updates ≥730 days | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [oEmbed Plus](https://wordpress.org/plugins/oembed-plus/) | 3000+ | 2021-07-15T10:24:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [Save with keyboard](https://wordpress.org/plugins/save-with-keyboard/) | 3000+ | 2018-11-03T08:57:00Z | 5.0.32 | No updates ≥730 days | OK |
@@ -187,7 +188,6 @@ Last run: **2026-11-25T17:27:26Z** · Errors: **0**
 | [G-Forms hCaptcha](https://wordpress.org/plugins/gf-hcaptcha/) | 2000+ | 2022-07-15T13:53:00Z | 6.0.19 | No updates ≥730 days | OK |
 | [Gravity Slider Fields](https://wordpress.org/plugins/gravity-slider-fields/) | 2000+ | 2024-11-19T23:04:00Z | 6.5.15 | No updates ≥730 days | OK |
 | [HTACCESS IP Blocker](https://wordpress.org/plugins/htaccess-ip-blocker/) | 2000+ | 2020-07-21T19:07:00Z | 5.4.26 | No updates ≥730 days | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [leadlovers for Elementor](https://wordpress.org/plugins/leadlovers-for-elementor/) | 2000+ | 2024-01-23T13:33:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [Lemmony Companion](https://wordpress.org/plugins/lemmony-companion/) | 2000+ | 2023-07-07T17:03:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [Modal Guten Block](https://wordpress.org/plugins/modal-block/) | 2000+ | 2023-10-03T18:52:00Z | 6.3.15 | No updates ≥730 days | OK |

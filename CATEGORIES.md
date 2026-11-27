@@ -19,15 +19,15 @@ Categorías automáticas orientativas / Heuristic categories, not reviewed.
 <a id="commerce"></a>
 ## Comercio electrónico
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
 | [Brazilian Market on WooCommerce](https://wordpress.org/plugins/woocommerce-extra-checkout-fields-for-brazil/) | 60000+ | 2024-02-17T19:14:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Search by SKU for Woocommerce](https://wordpress.org/plugins/search-by-sku-for-woocommerce/) | 10000+ | 2021-07-16T14:46:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
 | [Qty Increment Buttons for WooCommerce](https://wordpress.org/plugins/qty-increment-buttons-for-woocommerce/) | 9000+ | 2020-08-21T12:24:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
-| [Sold Out Badge for WooCommerce](https://wordpress.org/plugins/sold-out-badge-for-woocommerce/) | 8000+ | 2023-05-30T19:26:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Ajax Cart AutoUpdate for WooCommerce](https://wordpress.org/plugins/ajax-cart-autoupdate-for-woocommerce/) | 7000+ | 2021-03-30T21:37:00Z | 5.7.22 | Sin actualizar ≥730 días | OK |
+| [Sold Out Badge for WooCommerce](https://wordpress.org/plugins/sold-out-badge-for-woocommerce/) | 7000+ | 2023-05-30T19:26:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [States, Cities, and Places for WooCommerce](https://wordpress.org/plugins/states-cities-and-places-for-woocommerce/) | 5000+ | 2022-02-21T04:46:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
 | [Pix por Piggly (para Woocommerce)](https://wordpress.org/plugins/pix-por-piggly/) | 4000+ | 2024-06-23T15:06:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [Gutenberg Block for WooCommerce Product Table](https://wordpress.org/plugins/block-for-woo-product-table/) | 3000+ | 2024-11-13T09:40:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
@@ -44,7 +44,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="forms"></a>
 ## Formularios
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -71,7 +71,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="seo"></a>
 ## SEO y analítica
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -83,7 +83,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Professional Social Sharing Buttons, Icons &amp; Related Posts – Shareaholic](https://wordpress.org/plugins/shareaholic/) | 10000+ | 2024-11-05T19:08:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
 | [CHL-Change HTML Lang](https://wordpress.org/plugins/chl-change-html-lang/) | 7000+ | 2024-05-17T17:46:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [FAQ Schema For Pages And Posts](https://wordpress.org/plugins/faq-schema-for-pages-and-posts/) | 6000+ | 2022-02-21T20:46:00Z | 5.9.21 | Sin actualizar ≥730 días | OK |
-| [Sitemap by click5](https://wordpress.org/plugins/sitemap-by-click5/) | 5000+ | 2023-09-28T16:41:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
+| [Sitemap by click5](https://wordpress.org/plugins/sitemap-by-click5/) | 5000+ | 2026-11-27T10:30:00Z | 7.1.5 | Actualizado hace <730 días | OK |
 | [Turn Rank Math FAQ Block to Accordion](https://wordpress.org/plugins/turn-rank-math-faq-block-to-accordion/) | 5000+ | 2024-05-21T21:17:00Z | 6.5.15 | Sin actualizar ≥730 días | OK |
 | [UserHeat Plugin](https://wordpress.org/plugins/userheat/) | 5000+ | 2024-04-01T07:58:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
 | [Wppao Sitemap](https://wordpress.org/plugins/wppao-sitemap/) | 5000+ | 2020-05-26T09:55:00Z | 5.4.26 | Sin actualizar ≥730 días | OK |
@@ -100,7 +100,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="security"></a>
 ## Seguridad y acceso
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -130,7 +130,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="backup"></a>
 ## Copias y migración
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -153,7 +153,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="performance"></a>
 ## Rendimiento
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -161,9 +161,9 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Link Juice Optimizer](https://wordpress.org/plugins/link-juice-optimizer/) | 5000+ | 2024-01-16T18:16:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [PageSpeed Ninja – Cache, Minify, Defer CSS JavaScript, Critical CSS, Optimize Images, Convert WebP](https://wordpress.org/plugins/psn-pagespeed-ninja/) | 5000+ | 2024-09-26T12:19:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
 | [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2026-11-19T22:11:00Z | 7.1.5 | Actualizado hace <730 días | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 
 ¹ Cifras publicadas por WordPress.org, no conteos exactos. Hist.: último valor conocido, no actual.
 ² Declaración del autor; no hemos probado esa compatibilidad.
@@ -174,7 +174,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="media"></a>
 ## Multimedia
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -219,7 +219,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="design"></a>
 ## Diseño y edición
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -294,7 +294,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="communication"></a>
 ## Comunicación
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -326,7 +326,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="administration"></a>
 ## Administración
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -337,7 +337,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Scripts n Styles](https://wordpress.org/plugins/scripts-n-styles/) | 30000+ | 2023-06-06T19:13:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
 | [Change WordPress Login Logo](https://wordpress.org/plugins/change-login-logo/) | 20000+ | 2024-07-31T06:16:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Hide Admin Notices](https://wordpress.org/plugins/hide-admin-notices/) | 20000+ | 2024-02-18T17:52:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
-| [BST DSGVO Cookie](https://wordpress.org/plugins/bst-dsgvo-cookie/) | 5000+ | 2021-09-19T17:13:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
+| [BST DSGVO Cookie](https://wordpress.org/plugins/bst-dsgvo-cookie/) | 4000+ | 2021-09-19T17:13:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [Disable New User Notification Emails](https://wordpress.org/plugins/disable-new-user-notifications/) | 4000+ | 2021-07-19T04:46:00Z | 5.8.20 | Sin actualizar ≥730 días | OK |
 | [Rocket Maintenance Mode &amp; Coming Soon Page](https://wordpress.org/plugins/rocket-maintenance-mode/) | 4000+ | 2024-03-18T11:48:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Customize Login Image](https://wordpress.org/plugins/customize-login-image/) | 3000+ | 2023-09-23T06:15:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
@@ -353,7 +353,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="other"></a>
 ## Sin clasificar
 
-Última consulta: **2026-11-26T17:07:42Z** · Errores: **0**
+Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|

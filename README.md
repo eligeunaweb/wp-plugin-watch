@@ -13,7 +13,7 @@ Expanded catalogue: discovery among the first 5,000 popular results, with at lea
 
 <!-- WATCH:START -->
 
-Last run: **2026-11-26T17:07:42Z** · Errors: **0**
+Last run: **2026-11-27T16:51:13Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -74,7 +74,6 @@ Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 | [Max upload filesize](https://wordpress.org/plugins/max-upload-filesize/) | 8000+ | 2019-12-07T17:15:00Z | 5.3.28 | No updates ≥730 days | OK |
 | [Simple Post Type Permalinks](https://wordpress.org/plugins/simple-post-type-permalinks/) | 8000+ | 2019-06-04T22:43:00Z | 5.2.31 | No updates ≥730 days | OK |
 | [Sinatra Core](https://wordpress.org/plugins/sinatra-core/) | 8000+ | 2023-08-30T18:02:00Z | 6.3.15 | No updates ≥730 days | OK |
-| [Sold Out Badge for WooCommerce](https://wordpress.org/plugins/sold-out-badge-for-woocommerce/) | 8000+ | 2023-05-30T19:26:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [Taxonomy Images](https://wordpress.org/plugins/taxonomy-images/) | 8000+ | 2024-02-15T18:12:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [Ajax Cart AutoUpdate for WooCommerce](https://wordpress.org/plugins/ajax-cart-autoupdate-for-woocommerce/) | 7000+ | 2021-03-30T21:37:00Z | 5.7.22 | No updates ≥730 days | OK |
 | [Algori PDF Viewer](https://wordpress.org/plugins/algori-pdf-viewer/) | 7000+ | 2024-11-07T12:50:00Z | 6.6.12 | No updates ≥730 days | OK |
@@ -87,6 +86,7 @@ Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 | [Remove &amp; Disable XML-RPC Pingback](https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/) | 7000+ | 2023-07-24T23:03:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [ReOrder Posts within Categories](https://wordpress.org/plugins/reorder-post-within-categories/) | 7000+ | 2023-12-08T08:12:00Z | 6.3.0 | No updates ≥730 days | OK |
 | [WP REST API – OAuth 1.0a Server](https://wordpress.org/plugins/rest-api-oauth1/) | 7000+ | 2024-08-05T10:18:00Z | 6.6.12 | No updates ≥730 days | OK |
+| [Sold Out Badge for WooCommerce](https://wordpress.org/plugins/sold-out-badge-for-woocommerce/) | 7000+ | 2023-05-30T19:26:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [Template Kit – Export](https://wordpress.org/plugins/template-kit-export/) | 7000+ | 2024-08-01T01:44:00Z | 6.5.15 | No updates ≥730 days | OK |
 | [Who Stole the Text Justify Button ?!](https://wordpress.org/plugins/who-stole-the-text-justify-button/) | 7000+ | 2019-10-23T07:46:00Z | 5.3.28 | No updates ≥730 days | OK |
 | [WP Custom Cursors &#124; WordPress Cursor Plugin](https://wordpress.org/plugins/wp-custom-cursors/) | 7000+ | 2024-03-03T07:00:00Z | 6.4.15 | No updates ≥730 days | OK |
@@ -101,7 +101,6 @@ Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 | [Ultimate 410 Gone Status Code](https://wordpress.org/plugins/ultimate-410/) | 6000+ | 2024-08-15T07:46:00Z | 6.6.12 | No updates ≥730 days | OK |
 | [WP Responsive Table](https://wordpress.org/plugins/wp-responsive-table/) | 6000+ | 2021-01-16T01:04:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [Allow Webp image](https://wordpress.org/plugins/allow-webp-image/) | 5000+ | 2022-01-31T06:48:00Z | 5.9.21 | No updates ≥730 days | OK |
-| [BST DSGVO Cookie](https://wordpress.org/plugins/bst-dsgvo-cookie/) | 5000+ | 2021-09-19T17:13:00Z | 5.8.20 | No updates ≥730 days | OK |
 | [Call Now and Chat Buttons](https://wordpress.org/plugins/call-now-and-chat-buttons/) | 5000+ | 2024-11-20T18:20:00Z | 6.7.12 | No updates ≥730 days | OK |
 | [Čeština: zalomení řádků](https://wordpress.org/plugins/cestina-zalomeni-radku/) | 5000+ | 2023-03-27T12:31:00Z | 6.1.17 | No updates ≥730 days | OK |
 | [Custom links in Elementor Image Carousel](https://wordpress.org/plugins/custom-links-in-elementor-image-carousel/) | 5000+ | 2022-11-09T21:57:00Z | 6.1.17 | No updates ≥730 days | OK |
@@ -113,7 +112,7 @@ Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 | [Native Lazyload](https://wordpress.org/plugins/native-lazyload/) | 5000+ | 2019-12-06T16:56:00Z | 5.3.28 | No updates ≥730 days | OK |
 | [PageSpeed Ninja – Cache, Minify, Defer CSS JavaScript, Critical CSS, Optimize Images, Convert WebP](https://wordpress.org/plugins/psn-pagespeed-ninja/) | 5000+ | 2024-09-26T12:19:00Z | 6.6.12 | No updates ≥730 days | OK |
 | [Remove noreferrer](https://wordpress.org/plugins/remove-noreferrer/) | 5000+ | 2021-01-04T11:56:00Z | 5.6.24 | No updates ≥730 days | OK |
-| [Sitemap by click5](https://wordpress.org/plugins/sitemap-by-click5/) | 5000+ | 2023-09-28T16:41:00Z | 6.3.15 | No updates ≥730 days | OK |
+| [Sitemap by click5](https://wordpress.org/plugins/sitemap-by-click5/) | 5000+ | 2026-11-27T10:30:00Z | 7.1.5 | Updated within 730 days | OK |
 | [SoundCloud Shortcode](https://wordpress.org/plugins/soundcloud-shortcode/) | 5000+ | 2024-03-28T10:37:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [Sparkle Demo Importer](https://wordpress.org/plugins/sparkle-demo-importer/) | 5000+ | 2024-06-20T05:11:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [States, Cities, and Places for WooCommerce](https://wordpress.org/plugins/states-cities-and-places-for-woocommerce/) | 5000+ | 2022-02-21T04:46:00Z | 5.9.21 | No updates ≥730 days | OK |
@@ -125,6 +124,7 @@ Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 | [Wppao Sitemap](https://wordpress.org/plugins/wppao-sitemap/) | 5000+ | 2020-05-26T09:55:00Z | 5.4.26 | No updates ≥730 days | OK |
 | [ACF Autosize](https://wordpress.org/plugins/acf-autosize/) | 4000+ | 2022-01-28T10:10:00Z | 5.9.21 | No updates ≥730 days | OK |
 | [Animate on Scroll](https://wordpress.org/plugins/animate-on-scroll/) | 4000+ | 2024-04-08T03:50:00Z | 6.5.15 | No updates ≥730 days | OK |
+| [BST DSGVO Cookie](https://wordpress.org/plugins/bst-dsgvo-cookie/) | 4000+ | 2021-09-19T17:13:00Z | 5.8.20 | No updates ≥730 days | OK |
 | [Contact Form 7 Polylang Module](https://wordpress.org/plugins/cf7-polylang/) | 4000+ | 2023-12-13T15:51:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [chat-me-now](https://wordpress.org/plugins/chat-me-now/) | 4000+ | 2021-05-22T11:44:00Z | 5.7.22 | No updates ≥730 days | OK |
 | [DCO Insert Analytics Code](https://wordpress.org/plugins/dco-insert-analytics-code/) | 4000+ | 2021-07-28T12:29:00Z | 5.8.20 | No updates ≥730 days | OK |
@@ -150,7 +150,6 @@ Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 | [Featured Galleries](https://wordpress.org/plugins/featured-galleries/) | 3000+ | 2018-08-02T22:31:00Z | 4.9.36 | No updates ≥730 days | OK |
 | [Genesis Dambuster](https://wordpress.org/plugins/genesis-dambuster/) | 3000+ | 2019-03-28T11:27:00Z | 5.1.29 | No updates ≥730 days | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | No updates ≥730 days | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [oEmbed Plus](https://wordpress.org/plugins/oembed-plus/) | 3000+ | 2021-07-15T10:24:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [Save with keyboard](https://wordpress.org/plugins/save-with-keyboard/) | 3000+ | 2018-11-03T08:57:00Z | 5.0.32 | No updates ≥730 days | OK |
@@ -188,6 +187,7 @@ Last run: **2026-11-26T17:07:42Z** · Errors: **0**
 | [G-Forms hCaptcha](https://wordpress.org/plugins/gf-hcaptcha/) | 2000+ | 2022-07-15T13:53:00Z | 6.0.19 | No updates ≥730 days | OK |
 | [Gravity Slider Fields](https://wordpress.org/plugins/gravity-slider-fields/) | 2000+ | 2024-11-19T23:04:00Z | 6.5.15 | No updates ≥730 days | OK |
 | [HTACCESS IP Blocker](https://wordpress.org/plugins/htaccess-ip-blocker/) | 2000+ | 2020-07-21T19:07:00Z | 5.4.26 | No updates ≥730 days | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [leadlovers for Elementor](https://wordpress.org/plugins/leadlovers-for-elementor/) | 2000+ | 2024-01-23T13:33:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [Lemmony Companion](https://wordpress.org/plugins/lemmony-companion/) | 2000+ | 2023-07-07T17:03:00Z | 6.2.16 | No updates ≥730 days | OK |
 | [Modal Guten Block](https://wordpress.org/plugins/modal-block/) | 2000+ | 2023-10-03T18:52:00Z | 6.3.15 | No updates ≥730 days | OK |

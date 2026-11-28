@@ -19,7 +19,7 @@ Categorías automáticas orientativas / Heuristic categories, not reviewed.
 <a id="commerce"></a>
 ## Comercio electrónico
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -44,7 +44,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="forms"></a>
 ## Formularios
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -71,7 +71,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="seo"></a>
 ## SEO y analítica
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -100,7 +100,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="security"></a>
 ## Seguridad y acceso
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -113,7 +113,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Delete Pending Comments](https://wordpress.org/plugins/delete-pending-comments/) | 8000+ | 2024-01-28T17:10:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [WP REST API – OAuth 1.0a Server](https://wordpress.org/plugins/rest-api-oauth1/) | 7000+ | 2024-08-05T10:18:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [WP Mailto Links – Protect Email Addresses](https://wordpress.org/plugins/wp-mailto-links/) | 7000+ | 2023-09-22T16:55:00Z | 6.2.16 | Sin actualizar ≥730 días | OK |
-| [REST API Meta Support](https://wordpress.org/plugins/rest-api-meta-support/) | 6000+ | 2020-05-29T18:33:00Z | 5.4.26 | Sin actualizar ≥730 días | OK |
+| [REST API Meta Support](https://wordpress.org/plugins/rest-api-meta-support/) | 5000+ | 2020-05-29T18:33:00Z | 5.4.26 | Sin actualizar ≥730 días | OK |
 | [No CAPTCHA reCAPTCHA](https://wordpress.org/plugins/no-captcha-recaptcha/) | 4000+ | 2020-04-15T16:05:00Z | 5.4.26 | Sin actualizar ≥730 días | OK |
 | [Customize Login Image](https://wordpress.org/plugins/customize-login-image/) | 3000+ | 2023-09-23T06:15:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Security Headers](https://wordpress.org/plugins/security-headers/) | 3000+ | 2019-02-26T16:39:00Z | 5.1.29 | Sin actualizar ≥730 días | OK |
@@ -130,7 +130,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="backup"></a>
 ## Copias y migración
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -153,7 +153,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="performance"></a>
 ## Rendimiento
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -161,9 +161,9 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [Link Juice Optimizer](https://wordpress.org/plugins/link-juice-optimizer/) | 5000+ | 2024-01-16T18:16:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [PageSpeed Ninja – Cache, Minify, Defer CSS JavaScript, Critical CSS, Optimize Images, Convert WebP](https://wordpress.org/plugins/psn-pagespeed-ninja/) | 5000+ | 2024-09-26T12:19:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | Sin actualizar ≥730 días | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
 | [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2026-11-19T22:11:00Z | 7.1.5 | Actualizado hace <730 días | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 
 ¹ Cifras publicadas por WordPress.org, no conteos exactos. Hist.: último valor conocido, no actual.
 ² Declaración del autor; no hemos probado esa compatibilidad.
@@ -174,7 +174,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="media"></a>
 ## Multimedia
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -219,7 +219,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="design"></a>
 ## Diseño y edición
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -294,7 +294,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="communication"></a>
 ## Comunicación
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -326,7 +326,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="administration"></a>
 ## Administración
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -353,7 +353,7 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 <a id="other"></a>
 ## Sin clasificar
 
-Última consulta: **2026-11-27T16:51:13Z** · Errores: **0**
+Última consulta: **2026-11-28T15:42:29Z** · Errores: **0**
 
 | Plugin | Instalaciones¹ | Última actualización | WP probado² | Estado³ | Consulta |
 |---|---:|---|---|---|---|
@@ -367,9 +367,9 @@ Datos completos, fechas de verificación y motivos públicos de cierre: [JSON](d
 | [jQuery Manager for WordPress](https://wordpress.org/plugins/jquery-manager/) | 7000+ | 2020-07-20T11:07:00Z | 5.5.25 | Sin actualizar ≥730 días | OK |
 | [Remove &amp; Disable XML-RPC Pingback](https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/) | 7000+ | 2023-07-24T23:03:00Z | 6.3.15 | Sin actualizar ≥730 días | OK |
 | [ReOrder Posts within Categories](https://wordpress.org/plugins/reorder-post-within-categories/) | 7000+ | 2023-12-08T08:12:00Z | 6.3.0 | Sin actualizar ≥730 días | OK |
-| [Who Stole the Text Justify Button ?!](https://wordpress.org/plugins/who-stole-the-text-justify-button/) | 7000+ | 2019-10-23T07:46:00Z | 5.3.28 | Sin actualizar ≥730 días | OK |
 | [WP Custom Cursors &#124; WordPress Cursor Plugin](https://wordpress.org/plugins/wp-custom-cursors/) | 7000+ | 2024-03-03T07:00:00Z | 6.4.15 | Sin actualizar ≥730 días | OK |
 | [Ultimate 410 Gone Status Code](https://wordpress.org/plugins/ultimate-410/) | 6000+ | 2024-08-15T07:46:00Z | 6.6.12 | Sin actualizar ≥730 días | OK |
+| [Who Stole the Text Justify Button ?!](https://wordpress.org/plugins/who-stole-the-text-justify-button/) | 6000+ | 2019-10-23T07:46:00Z | 5.3.28 | Sin actualizar ≥730 días | OK |
 | [WP Responsive Table](https://wordpress.org/plugins/wp-responsive-table/) | 6000+ | 2021-01-16T01:04:00Z | 5.6.24 | Sin actualizar ≥730 días | OK |
 | [Čeština: zalomení řádků](https://wordpress.org/plugins/cestina-zalomeni-radku/) | 5000+ | 2023-03-27T12:31:00Z | 6.1.17 | Sin actualizar ≥730 días | OK |
 | [Native Lazyload](https://wordpress.org/plugins/native-lazyload/) | 5000+ | 2019-12-06T16:56:00Z | 5.3.28 | Sin actualizar ≥730 días | OK |

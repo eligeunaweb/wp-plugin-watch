@@ -19,7 +19,7 @@ Categorías automáticas orientativas / Heuristic categories, not reviewed.
 <a id="commerce"></a>
 ## E-commerce
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -44,7 +44,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="forms"></a>
 ## Forms
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -71,7 +71,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="seo"></a>
 ## SEO & analytics
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -100,7 +100,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="security"></a>
 ## Security & access
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -113,7 +113,7 @@ Last run: **2026-11-27T16:51:13Z** · Errors: **0**
 | [Delete Pending Comments](https://wordpress.org/plugins/delete-pending-comments/) | 8000+ | 2024-01-28T17:10:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [WP REST API – OAuth 1.0a Server](https://wordpress.org/plugins/rest-api-oauth1/) | 7000+ | 2024-08-05T10:18:00Z | 6.6.12 | No updates ≥730 days | OK |
 | [WP Mailto Links – Protect Email Addresses](https://wordpress.org/plugins/wp-mailto-links/) | 7000+ | 2023-09-22T16:55:00Z | 6.2.16 | No updates ≥730 days | OK |
-| [REST API Meta Support](https://wordpress.org/plugins/rest-api-meta-support/) | 6000+ | 2020-05-29T18:33:00Z | 5.4.26 | No updates ≥730 days | OK |
+| [REST API Meta Support](https://wordpress.org/plugins/rest-api-meta-support/) | 5000+ | 2020-05-29T18:33:00Z | 5.4.26 | No updates ≥730 days | OK |
 | [No CAPTCHA reCAPTCHA](https://wordpress.org/plugins/no-captcha-recaptcha/) | 4000+ | 2020-04-15T16:05:00Z | 5.4.26 | No updates ≥730 days | OK |
 | [Customize Login Image](https://wordpress.org/plugins/customize-login-image/) | 3000+ | 2023-09-23T06:15:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [Security Headers](https://wordpress.org/plugins/security-headers/) | 3000+ | 2019-02-26T16:39:00Z | 5.1.29 | No updates ≥730 days | OK |
@@ -130,7 +130,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="backup"></a>
 ## Backup & migration
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -153,7 +153,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="performance"></a>
 ## Performance
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -161,9 +161,9 @@ Last run: **2026-11-27T16:51:13Z** · Errors: **0**
 | [Link Juice Optimizer](https://wordpress.org/plugins/link-juice-optimizer/) | 5000+ | 2024-01-16T18:16:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [PageSpeed Ninja – Cache, Minify, Defer CSS JavaScript, Critical CSS, Optimize Images, Convert WebP](https://wordpress.org/plugins/psn-pagespeed-ninja/) | 5000+ | 2024-09-26T12:19:00Z | 6.6.12 | No updates ≥730 days | OK |
 | [Image Optimizer by 10web – Image Optimizer and Compression plugin](https://wordpress.org/plugins/image-optimizer-wd/) | 3000+ | 2024-11-13T12:02:00Z | 6.7.12 | No updates ≥730 days | OK |
+| [instant.page](https://wordpress.org/plugins/instant-page/) | 3000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) | 3000+ | 2021-01-16T23:25:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [Static 404](https://wordpress.org/plugins/static-404/) | 3000+ | 2026-11-19T22:11:00Z | 7.1.5 | Updated within 730 days | OK |
-| [instant.page](https://wordpress.org/plugins/instant-page/) | 2000+ | 2023-08-10T16:17:00Z | 6.3.15 | No updates ≥730 days | OK |
 
 ¹ WordPress.org published figures, not exact counts. Hist.: last known value, not current.
 ² Author declaration; compatibility has not been tested here.
@@ -174,7 +174,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="media"></a>
 ## Media
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -219,7 +219,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="design"></a>
 ## Design & editing
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -294,7 +294,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="communication"></a>
 ## Communication
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -326,7 +326,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="administration"></a>
 ## Administration
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -353,7 +353,7 @@ Full metadata, verification dates and public closure reasons: [JSON](data/plugin
 <a id="other"></a>
 ## Unclassified
 
-Last run: **2026-11-27T16:51:13Z** · Errors: **0**
+Last run: **2026-11-28T15:42:29Z** · Errors: **0**
 
 | Plugin | Installs¹ | Last updated | WP tested² | Status³ | Check |
 |---|---:|---|---|---|---|
@@ -367,9 +367,9 @@ Last run: **2026-11-27T16:51:13Z** · Errors: **0**
 | [jQuery Manager for WordPress](https://wordpress.org/plugins/jquery-manager/) | 7000+ | 2020-07-20T11:07:00Z | 5.5.25 | No updates ≥730 days | OK |
 | [Remove &amp; Disable XML-RPC Pingback](https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/) | 7000+ | 2023-07-24T23:03:00Z | 6.3.15 | No updates ≥730 days | OK |
 | [ReOrder Posts within Categories](https://wordpress.org/plugins/reorder-post-within-categories/) | 7000+ | 2023-12-08T08:12:00Z | 6.3.0 | No updates ≥730 days | OK |
-| [Who Stole the Text Justify Button ?!](https://wordpress.org/plugins/who-stole-the-text-justify-button/) | 7000+ | 2019-10-23T07:46:00Z | 5.3.28 | No updates ≥730 days | OK |
 | [WP Custom Cursors &#124; WordPress Cursor Plugin](https://wordpress.org/plugins/wp-custom-cursors/) | 7000+ | 2024-03-03T07:00:00Z | 6.4.15 | No updates ≥730 days | OK |
 | [Ultimate 410 Gone Status Code](https://wordpress.org/plugins/ultimate-410/) | 6000+ | 2024-08-15T07:46:00Z | 6.6.12 | No updates ≥730 days | OK |
+| [Who Stole the Text Justify Button ?!](https://wordpress.org/plugins/who-stole-the-text-justify-button/) | 6000+ | 2019-10-23T07:46:00Z | 5.3.28 | No updates ≥730 days | OK |
 | [WP Responsive Table](https://wordpress.org/plugins/wp-responsive-table/) | 6000+ | 2021-01-16T01:04:00Z | 5.6.24 | No updates ≥730 days | OK |
 | [Čeština: zalomení řádků](https://wordpress.org/plugins/cestina-zalomeni-radku/) | 5000+ | 2023-03-27T12:31:00Z | 6.1.17 | No updates ≥730 days | OK |
 | [Native Lazyload](https://wordpress.org/plugins/native-lazyload/) | 5000+ | 2019-12-06T16:56:00Z | 5.3.28 | No updates ≥730 days | OK |
